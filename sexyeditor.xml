@@ -2,7 +2,19 @@
   <component name="SexyEditor">
     <option name="configs">
       <list>
-        <BackgroundConfiguration />
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="$USER_HOME$/Downloads/美队盾牌.jpg" />
+              <option value="$USER_HOME$/Downloads/wallhaven-394426.jpg" />
+            </array>
+          </option>
+          <option name="opacity" value="0.19" />
+          <option name="position" value="4" />
+          <option name="positionOffset" value="0" />
+          <option name="shrink" value="true" />
+          <option name="shrinkValue" value="100" />
+        </BackgroundConfiguration>
       </list>
     </option>
   </component>
