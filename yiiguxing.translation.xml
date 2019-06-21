@@ -1,14 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TYPE PRODUCT SALE" />
+      <item value="Report Constant" />
+      <item value="certificate Pinner" />
       <item value="redirect" />
       <item value="offset" />
       <item value="系数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
+        <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
   </component>
