@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Detached" />
       <item value="Provides the Observer with a new item to observe." />
       <item value="TYPE PRODUCT SALE" />
       <item value="Report Constant" />
@@ -11,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
