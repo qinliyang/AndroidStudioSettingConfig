@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Print Accessory Code" />
       <item value="view Right Seat" />
       <item value="prepare Fetch Data" />
       <item value="Computes the coordinates of this view on the screen. The argument * must be an array of two integers. After the method returns, the array * contains the x and y location in that order.&lt;/p&gt;" />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
