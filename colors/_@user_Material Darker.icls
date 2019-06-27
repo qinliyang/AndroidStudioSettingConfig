@@ -4,7 +4,7 @@
     <property name="created">2019-06-26T17:11:50</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.1.0</property>
-    <property name="modified">2019-06-26T17:18:14</property>
+    <property name="modified">2019-06-27T10:47:48</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1479,6 +1479,11 @@
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="12404b" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4cee56" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
