@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The logical density of the display. This is a scaling factor for the * Density Independent Pixel unit, where one DIP is one pixel on an * approximately 160 dpi screen (for example a 240x320, 1.5&quot;x2&quot; screen), * providing the baseline of the system's display. Thus on a 160dpi screen * this density value will be 1; on a 120 dpi screen it would be .75; etc. *" />
+      <item value="* The screen density expressed as dots-per-inch. May be either * {@link #DENSIT" />
+      <item value="/** * The screen density expressed as dots-per-inch. May be either * {@link #DENSITY_LOW}, {@link #DENSITY_MEDIUM}, or {@link #DENSITY_HIGH}. */" />
+      <item value="* A scaling factor for fonts displayed on the display. This is the same * as {@link #density}, except that it may be adjusted in smaller * increments at runtime based on a user preference for the font size. */" />
+      <item value="The exact physical pixels per inch of the screen in the X dimension." />
+      <item value="The absolute height of the available display size in pixels." />
+      <item value="The absolute width of the available display size in pixels." />
+      <item value="width Pixels" />
       <item value="Gets display metrics that describe the size and density of this display. * The size returned by this method does not necessarily represent the * actual raw size (native resolution) of the display." />
       <item value="start Print Accessory Code" />
       <item value="view Right Seat" />
@@ -20,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
