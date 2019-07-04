@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="北京城.md" type="PLAIN_TEXT" />
+      <mapping pattern="北京城" type="Smali" />
+    </extensionMap>
+  </component>
+</application>
