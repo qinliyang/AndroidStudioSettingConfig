@@ -4,7 +4,7 @@
     <property name="created">2019-06-26T17:11:50</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.1.0</property>
-    <property name="modified">2019-07-04T15:09:44</property>
+    <property name="modified">2019-07-13T15:37:13</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1374,19 +1374,19 @@
     </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="20d671" />
+        <option name="FOREGROUND" value="74d6ac" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="20d671" />
+        <option name="FOREGROUND" value="74d6ac" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="11ff0a" />
+        <option name="FOREGROUND" value="fffb4" />
       </value>
     </option>
     <option name="JAVA_DOC_TAG">
@@ -1403,7 +1403,7 @@
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="20d671" />
+        <option name="FOREGROUND" value="74d6ac" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
