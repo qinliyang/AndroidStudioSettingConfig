@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="courier Trade Id" />
+      <item value="Trade Id" />
       <item value="Couriers" />
       <item value="refresh Deliver Time UI" />
       <item value="gain" />
@@ -47,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
