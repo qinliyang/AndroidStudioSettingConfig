@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pending Order Id" />
       <item value="A functional interface (callback) that accepts a single value." />
       <item value="Returns true if this bitmap has been recycled. If so, then it is an error * to try to access its pixels, and the bitmap will not draw. *" />
       <item value="* Free the native object associated with this bitmap, and clear the * reference to the pixel data. This will not free the pixel data synchronously; * it simply allows it to be garbage collected if there are no other references. * The bitmap is marked as &quot;dead&quot;, meaning it will throw an exception if * getPixels() or setPixels() is called, and will draw nothing. This operation * cannot be reversed, so it should only be called if you are sure there are no * further uses for the bitmap. This is an advanced call, and normally need * not be called, since the normal GC process will free up this memory when * there are no more references to this bitmap." />
@@ -50,12 +51,11 @@
       <item value="Detached" />
       <item value="Provides the Observer with a new item to observe." />
       <item value="TYPE PRODUCT SALE" />
-      <item value="Report Constant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
