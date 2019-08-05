@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;Causes the Runnable to be added to the message queue. * The runnable will be run on the user interface thread.&lt;/p&gt; *" />
+      <item value="Returns true if the Runnable was successfully placed in to the * message queue. Returns false on failure, usually because the * looper processing the message queue is exiting." />
       <item value="with Draw Request" />
       <item value="ll气泡" />
       <item value="descendant Focusability" />
@@ -49,13 +51,11 @@
       <item value="The absolute height of the available display size in pixels." />
       <item value="The absolute width of the available display size in pixels." />
       <item value="width Pixels" />
-      <item value="Gets display metrics that describe the size and density of this display. * The size returned by this method does not necessarily represent the * actual raw size (native resolution) of the display." />
-      <item value="start Print Accessory Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
