@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="** * &lt;p&gt;Computes the coordinates of this view in its window. The argument * must be an array of two integers. After the method returns, the array * contains the x and y location in that order.&lt;/p&gt; *" />
       <item value="&lt;p&gt;Causes the Runnable to be added to the message queue. * The runnable will be run on the user interface thread.&lt;/p&gt; *" />
       <item value="Returns true if the Runnable was successfully placed in to the * message queue. Returns false on failure, usually because the * looper processing the message queue is exiting." />
       <item value="with Draw Request" />
@@ -50,12 +51,11 @@
       <item value="The exact physical pixels per inch of the screen in the X dimension." />
       <item value="The absolute height of the available display size in pixels." />
       <item value="The absolute width of the available display size in pixels." />
-      <item value="width Pixels" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
