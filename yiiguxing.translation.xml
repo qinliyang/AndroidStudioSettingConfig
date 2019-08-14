@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="messages" />
       <item value="render By Url" />
       <item value="is attached directly to an Activity" />
       <item value="label" />
@@ -50,12 +51,11 @@
       <item value="Used with {@link #setMixedContentMode} * * In this mode, the WebView will allow a secure origin to load content from any other origin, * even if that origin is insecure. This is the least secure mode of operation for the WebView, * and where possible apps should not set this mode." />
       <item value="货主" />
       <item value="* Specialization of format. * * @param number the double number to format * @param toAppendTo the StringBuffer to which the formatted text is to be * appended * @param pos the field position * @return the formatted StringBuffer * @exception ArithmeticException if rounding is needed with rounding * mode being set to RoundingMode.UNNECESSARY" />
-      <item value="ACTION IMAGE CAPTURE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
