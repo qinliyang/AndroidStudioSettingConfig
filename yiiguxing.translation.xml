@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="appplatform Type" />
       <item value="Fetch" />
       <item value="on Render Success" />
       <item value="share Banner Tap" />
@@ -50,12 +51,11 @@
       <item value="Is Precious Dialog" />
       <item value="true if this view could ask the Handler to remove the Runnable, * false otherwise. When the returned value is true, the Runnable * may or may not have been actually removed from the message queue * (for instance, if the Runnable was not in the queue already.) *" />
       <item value="&gt;Removes the specified Runnable from the message queue.&lt;/p&gt; *" />
-      <item value="/** * Sets the left position of this view relative to its parent. This method is meant to be called * by the layout system and should not generally be called otherwise, because the property * may be changed at any time by the layout. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
