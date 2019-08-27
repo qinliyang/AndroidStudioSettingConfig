@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lint Options" />
+      <item value="target Compatibility" />
+      <item value="source Compatibility" />
+      <item value="annotation Processor Options" />
+      <item value="java Compile Options" />
       <item value="0 x 0" />
       <item value="refresh Consign Price Info" />
       <item value="refresh Pricing Strategy" />
@@ -46,16 +51,11 @@
       <item value="AUDIT" />
       <item value="district" />
       <item value="consignee" />
-      <item value="APPOINTED" />
-      <item value="courier Trade Id" />
-      <item value="Trade Id" />
-      <item value="Couriers" />
-      <item value="refresh Deliver Time UI" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
