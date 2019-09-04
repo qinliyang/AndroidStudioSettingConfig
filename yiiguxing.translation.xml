@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no message or extra send to user" />
+      <item value="Get network picture failed, show basic notification only" />
       <item value="Contract" />
       <item value="The drawer is unlocked." />
       <item value="lint Options" />
@@ -49,13 +51,11 @@
       <item value="Returns true if this bitmap has been recycled. If so, then it is an error * to try to access its pixels, and the bitmap will not draw. *" />
       <item value="* Free the native object associated with this bitmap, and clear the * reference to the pixel data. This will not free the pixel data synchronously; * it simply allows it to be garbage collected if there are no other references. * The bitmap is marked as &quot;dead&quot;, meaning it will throw an exception if * getPixels() or setPixels() is called, and will draw nothing. This operation * cannot be reversed, so it should only be called if you are sure there are no * further uses for the bitmap. This is an advanced call, and normally need * not be called, since the normal GC process will free up this memory when * there are no more references to this bitmap." />
       <item value="getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output" />
-      <item value="limiting" />
-      <item value="AUDIT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
