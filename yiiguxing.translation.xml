@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contract" />
       <item value="The drawer is unlocked." />
       <item value="lint Options" />
       <item value="target Compatibility" />
@@ -50,12 +51,11 @@
       <item value="getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output" />
       <item value="limiting" />
       <item value="AUDIT" />
-      <item value="district" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
