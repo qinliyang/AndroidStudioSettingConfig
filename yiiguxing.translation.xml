@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not support endpoint get_custom_Info[err=207005]:207005]" />
+      <item value="not support endpoint get_custom_Info" />
       <item value="Security Exception" />
       <item value="aspect" />
       <item value="output X" />
       <item value="aspect X" />
       <item value="Decimal Format" />
       <item value="Specialization of format." />
-      <item value="not support endpoint get_custom_Info" />
       <item value="endpoint" />
       <item value="the specified substring." />
       <item value="on Heart Beat Response" />
@@ -50,12 +51,11 @@
       <item value="render By Url" />
       <item value="is attached directly to an Activity" />
       <item value="label" />
-      <item value="/** * Change the title associated with this activity. If this is a * top-level activity, the title for its window will change. If it * is an embedded activity, the parent can do whatever it wants * with it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
