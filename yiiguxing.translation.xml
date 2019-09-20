@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="region" />
       <item value="TIM GROUP SYSTEM CUSTOM INFO" />
       <item value="not support endpoint get_custom_Info[err=207005]:207005]" />
       <item value="not support endpoint get_custom_Info" />
@@ -50,12 +51,11 @@
       <item value="Invite Get Bean" />
       <item value="messages" />
       <item value="render By Url" />
-      <item value="is attached directly to an Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
