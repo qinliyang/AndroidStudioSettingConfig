@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dex Archive Merger Exception" />
+      <item value="Task Execution Exception" />
+      <item value="No Such Method Error" />
       <item value="Sets the source to get the number of spans occupied by each item in the adapter. * * @param spanSizeLookup {@link SpanSizeLookup} instance to be used to query number of spans * occupied by each item" />
       <item value="crash" />
       <item value="Component" />
@@ -48,14 +51,11 @@
       <item value="appplatform Type" />
       <item value="Fetch" />
       <item value="on Render Success" />
-      <item value="share Banner Tap" />
-      <item value="fire Global Event Callback" />
-      <item value="webpageUrl is invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
