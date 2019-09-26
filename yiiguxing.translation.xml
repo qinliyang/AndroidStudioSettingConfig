@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="should Override Url Loading" />
       <item value="Dex Archive Merger Exception" />
       <item value="Task Execution Exception" />
       <item value="No Such Method Error" />
@@ -50,12 +51,11 @@
       <item value="context is not instanceof Activity or Service, disable WXStat" />
       <item value="appplatform Type" />
       <item value="Fetch" />
-      <item value="on Render Success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
