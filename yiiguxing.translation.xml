@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception while processing task java.io.IOException: proguard.ParseException" />
       <item value="Illegal Access Exception" />
       <item value="should Override Url Loading" />
       <item value="Dex Archive Merger Exception" />
@@ -50,12 +51,11 @@
       <item value="Coupon" />
       <item value="is Disenble" />
       <item value="context is not instanceof Activity or Service, disable WXStat" />
-      <item value="appplatform Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
