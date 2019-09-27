@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied Link Error" />
       <item value="dontwarn" />
       <item value="Exception while processing task java.io.IOException: proguard.ParseException" />
       <item value="Illegal Access Exception" />
@@ -50,12 +51,11 @@
       <item value="refresh Pricing Strategy" />
       <item value="confirm" />
       <item value="Coupon" />
-      <item value="is Disenble" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
