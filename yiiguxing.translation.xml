@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if rounding is needed with rounding * mode being set to RoundingMode.UNNECESSARY" />
+      <item value="UNNECESSARY" />
+      <item value="Specialization of format." />
       <item value="Unsatisfied Link Error" />
       <item value="dontwarn" />
       <item value="Exception while processing task java.io.IOException: proguard.ParseException" />
@@ -21,7 +24,6 @@
       <item value="output X" />
       <item value="aspect X" />
       <item value="Decimal Format" />
-      <item value="Specialization of format." />
       <item value="endpoint" />
       <item value="the specified substring." />
       <item value="on Heart Beat Response" />
@@ -49,13 +51,11 @@
       <item value="0 x 0" />
       <item value="refresh Consign Price Info" />
       <item value="refresh Pricing Strategy" />
-      <item value="confirm" />
-      <item value="Coupon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
