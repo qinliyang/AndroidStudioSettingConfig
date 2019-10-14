@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* case 1: minSdkVersion is below 14, but you are using dexMode with raw. * it must be crash when load. * case 2: newly added Android Component in AndroidManifest.xml, * it must be crash when load. * case 3: loader classes in dex.loader{} are not keep in the main dex, * it must be let tinker not work. * case 4: loader classes in dex.loader{} changes, * loader classes is ues to load patch dex. it is useless to change them. * it won't crash, but these changes can't effect. you may ignore it * case 5: resources.arsc has changed, but we don't use applyResourceMapping to build */" />
       <item value="if rounding is needed with rounding * mode being set to RoundingMode.UNNECESSARY" />
       <item value="UNNECESSARY" />
       <item value="Specialization of format." />
@@ -50,12 +51,11 @@
       <item value="java Compile Options" />
       <item value="0 x 0" />
       <item value="refresh Consign Price Info" />
-      <item value="refresh Pricing Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
