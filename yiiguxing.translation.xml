@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt;Removes the specified Runnable from the message queue.&lt;/p&gt;" />
+      <item value="true if this view could ask the Handler to remove the Runnable, * false otherwise. When the returned value is true, the Runnable * may or may not have been actually removed from the message queue * (for instance, if the Runnable was not in the queue already.)" />
       <item value="Set a listener to be invoked when the dialog is dismissed." />
       <item value="Set a listener to be invoked when the dialog is canceled." />
       <item value="* case 1: minSdkVersion is below 14, but you are using dexMode with raw. * it must be crash when load. * case 2: newly added Android Component in AndroidManifest.xml, * it must be crash when load. * case 3: loader classes in dex.loader{} are not keep in the main dex, * it must be let tinker not work. * case 4: loader classes in dex.loader{} changes, * loader classes is ues to load patch dex. it is useless to change them. * it won't crash, but these changes can't effect. you may ignore it * case 5: resources.arsc has changed, but we don't use applyResourceMapping to build */" />
@@ -49,13 +51,11 @@
       <item value="lint Options" />
       <item value="target Compatibility" />
       <item value="source Compatibility" />
-      <item value="annotation Processor Options" />
-      <item value="java Compile Options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
