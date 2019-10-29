@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vendors" />
       <item value="promotion" />
       <item value="profession" />
       <item value="Bought" />
@@ -50,12 +51,11 @@
       <item value="Visblity" />
       <item value="* Reverses the order of the elements in the specified list.&lt;p&gt; * * This method runs in linear time." />
       <item value="Strip" />
-      <item value="no message or extra send to user" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
