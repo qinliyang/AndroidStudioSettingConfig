@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WAIT DELIVERY" />
       <item value="application-specific resource id." />
       <item value="Consign" />
       <item value="Enable nested scrolling." />
@@ -50,12 +51,11 @@
       <item value="Tests whether the file or directory denoted by this abstract pathname * exists." />
       <item value="The authority of a {@link FileProvider} defined in a * {@code &lt;provider&gt;} element in your app's manifest." />
       <item value="Gets the decoded path. * * @return the decoded path, or null if this is not a hierarchical URI * (like &quot;mailto:nobody@google.com&quot;) or the URI is invalid" />
-      <item value="/** * Stop the service, if it was previously started. This is the same as * calling {@link android.content.Context#stopService} for this particular service. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="157" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
