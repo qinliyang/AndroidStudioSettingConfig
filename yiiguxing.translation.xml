@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corners" />
+      <item value="ring" />
       <item value="* Return the width of the your view." />
       <item value="consignee" />
       <item value="Solo" />
@@ -49,13 +51,11 @@
       <item value="TIM GROUP SYSTEM CUSTOM INFO" />
       <item value="not support endpoint get_custom_Info[err=207005]:207005]" />
       <item value="not support endpoint get_custom_Info" />
-      <item value="Security Exception" />
-      <item value="aspect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
