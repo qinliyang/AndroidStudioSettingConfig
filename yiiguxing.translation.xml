@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Drawer" />
       <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this list contains all of the elements of the * specified collection." />
       <item value="add Icon Tab" />
       <item value="corners" />
@@ -50,12 +51,11 @@
       <item value="crash" />
       <item value="Component" />
       <item value="region" />
-      <item value="TIM GROUP SYSTEM CUSTOM INFO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
