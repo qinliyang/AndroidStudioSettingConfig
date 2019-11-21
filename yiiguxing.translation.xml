@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is an item change event, not a structural change event. It indicates that any * reflection of the data at &lt;code&gt;position&lt;/code&gt; is out of date and should be updated. * The item at &lt;code&gt;position&lt;/code&gt; retains the same identity." />
       <item value="sort" />
       <item value="additional Filter List" />
       <item value="Panel" />
@@ -50,12 +51,11 @@
       <item value="UNNECESSARY" />
       <item value="Specialization of format." />
       <item value="Unsatisfied Link Error" />
-      <item value="dontwarn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
