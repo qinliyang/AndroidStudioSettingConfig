@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STATE COMPLETE" />
       <item value="false" />
       <item value="Value in pixels indicating the offset from position" />
       <item value="The end-user-visible name for the end product." />
@@ -50,12 +51,11 @@
       <item value="actual" />
       <item value="show Logistice Question" />
       <item value="vendors" />
-      <item value="profession" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
