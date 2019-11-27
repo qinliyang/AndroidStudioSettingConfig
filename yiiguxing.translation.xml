@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Align child view's left or top with parent view's left or top *" />
+      <item value="You must override smoothScrollToPosition to support smooth scrolling" />
+      <item value="&gt;Causes the Runnable to execute on the next animation time step. * The runnable will be run on the user interface thread.&lt;/p&gt; *" />
+      <item value="Starts a smooth scroll using the provided SmoothScroller.&lt;/p&gt;" />
       <item value="* If some part of this view is not clipped by any of its parents, then * return that area in r in global (root) coordinates. To convert r to local * coordinates (without taking possible View rotations into account), offset * it by -globalOffset (e.g. r.offset(-globalOffset.x, -globalOffset.y)). * If the view is completely clipped or translated out, return false. *" />
       <item value="* &lt;p&gt;Computes the coordinates of this view on the screen. The argument * must be an array of two integers. After the method returns, the array * contains the x and y location in that order.&lt;/p&gt; *" />
       <item value="* * &lt;p&gt;Computes the coordinates of this view in its window. The argument * must be an array of two integers. After the method returns, the array * contains the x and y location in that order.&lt;/p&gt; *" />
@@ -47,15 +51,11 @@
       <item value="Record" />
       <item value="WAIT DELIVERY" />
       <item value="application-specific resource id." />
-      <item value="Consign" />
-      <item value="Enable nested scrolling." />
-      <item value="促销优惠" />
-      <item value="ViewPager does not have adapter instanc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
