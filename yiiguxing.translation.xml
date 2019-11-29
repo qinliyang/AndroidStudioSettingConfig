@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Found item Attr/pstsIndicatorColor more than one time" />
+      <item value="Sets the properties of this field to transform input to ALL CAPS * display. This may use a &quot;small caps&quot; formatting if available. * This setting will be ignored if this field is editable or selectable. *" />
       <item value="Sets the opacity of the view to a value from 0 to 1, where 0 means the view is * completely transparent and 1 means the view is completely opaque. *" />
       <item value="Align child view's left or top with parent view's left or top *" />
       <item value="You must override smoothScrollToPosition to support smooth scrolling" />
@@ -49,13 +51,11 @@
       <item value="Writes retrieved data directly to the disk cache before it's decoded." />
       <item value="Writes resources to disk after they've been decoded." />
       <item value="&lt;p&gt;This implementation iterates over the specified collection, * checking each element returned by the iterator in turn to see * if it's contained in this collection. If all elements are so * contained &lt;tt&gt;true&lt;/tt&gt; is returned, otherwise &lt;tt&gt;false&lt;/tt&gt;." />
-      <item value="Record" />
-      <item value="WAIT DELIVERY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
