@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DisplayMetrics to be used for real dimension calculations * @return The time (in ms) it should take for each pixel. For instance, if returned value is * 2 ms, it means scrolling 1000 pixels with LinearInterpolation should take 2 seconds." />
+      <item value="Calculates the scroll speed." />
+      <item value="TARGET SEEK SCROLL DISTANCE PX" />
+      <item value="The screen density expressed as dots-per-inch." />
+      <item value="calculate Speed Per Pixel" />
+      <item value="MILLISECONDS PER INCH" />
+      <item value="Calculates the scroll speed. * * @param displayMetrics DisplayMetrics to be used for real dimension calculations * @return The time (in ms) it should take for each pixel. For instance, if returned value is * 2 ms, it means scrolling 1000 pixels with LinearInterpolation should take 2 seconds." />
       <item value="SCROLL" />
       <item value="injector" />
       <item value="Tinker Uncaught Handler" />
@@ -44,18 +51,11 @@
       <item value="Notify any registered observers that the item at &lt;code&gt;position&lt;/code&gt; has changed. * Equivalent to calling &lt;code&gt;notifyItemChanged(position, null);&lt;/code&gt;. *" />
       <item value="Drawer" />
       <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this list contains all of the elements of the * specified collection." />
-      <item value="add Icon Tab" />
-      <item value="corners" />
-      <item value="ring" />
-      <item value="* Return the width of the your view." />
-      <item value="consignee" />
-      <item value="Solo" />
-      <item value="Caches remote data with both {@link #DATA} and {@link #RESOURCE}, and local data with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
