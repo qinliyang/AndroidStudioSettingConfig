@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The interval along the way to receive * {@link #onTick(long)} callbacks." />
+      <item value="The number of millis in the future from the call * to {@link #start()} until the countdown is done and {@link #onFinish()} * is called." />
       <item value="prepare Sell Mall Js" />
       <item value="delete Expired If Need" />
       <item value="The distance (in pixels) between the start edge of the item view and * start edge of the RecyclerView." />
@@ -49,13 +51,11 @@
       <item value="pre Click Time Millis" />
       <item value="exchanged Prices When Need" />
       <item value="is Price Widget" />
-      <item value="Staggered Grid Layout Manager" />
-      <item value="promotion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
