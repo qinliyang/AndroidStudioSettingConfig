@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Notify any registered observers that the &lt;code&gt;itemCount&lt;/code&gt; items starting at * position &lt;code&gt;positionStart&lt;/code&gt; have changed. * Equivalent to calling &lt;code&gt;notifyItemRangeChanged(position, itemCount, null);&lt;/code&gt;. *" />
       <item value="Called by RecyclerView when it stops observing this Adapter." />
       <item value="Indicates the activation state of this view. * * @return true if the view is activated, false otherwise */" />
       <item value="notation" />
@@ -50,12 +51,11 @@
       <item value="Value in pixels indicating the offset from position" />
       <item value="The end-user-visible name for the end product." />
       <item value="uncaughtException:Attempt to invoke virtual method 'void android.support.v7.widget.StaggeredGridLayoutManager$LayoutParams.setFullSpan(boolean)' on a null object reference" />
-      <item value="Returns the number of spans laid out by this grid. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
