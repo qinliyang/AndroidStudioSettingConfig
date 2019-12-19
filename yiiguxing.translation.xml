@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="true if this view could ask the Handler to remove the Runnable, * false otherwise. When the returned value is true, the Runnable * may or may not have been actually removed from the message queue * (for instance, if the Runnable was not in the queue already.) *" />
+      <item value="if the Runnable was successfully placed in to the * message queue. Returns false on failure, usually because the * looper processing the message queue is exiting. Note that a * result of true does not mean the Runnable will be processed -- * if the looper is quit before the delivery time of the message * occurs then the message will be dropped." />
+      <item value="A set of information given to a view when it is attached to its parent" />
       <item value="p&gt;Removes the specified Runnable from the message queue.&lt;/p&gt;" />
       <item value="Removes and recycles all views - both those currently attached, and those in the Recycler." />
       <item value="Replaces the current adapter with the new one and triggers listeners." />
@@ -48,14 +51,11 @@
       <item value="* If some part of this view is not clipped by any of its parents, then * return that area in r in global (root) coordinates. To convert r to local * coordinates (without taking possible View rotations into account), offset * it by -globalOffset (e.g. r.offset(-globalOffset.x, -globalOffset.y)). * If the view is completely clipped or translated out, return false. *" />
       <item value="* &lt;p&gt;Computes the coordinates of this view on the screen. The argument * must be an array of two integers. After the method returns, the array * contains the x and y location in that order.&lt;/p&gt; *" />
       <item value="* * &lt;p&gt;Computes the coordinates of this view in its window. The argument * must be an array of two integers. After the method returns, the array * contains the x and y location in that order.&lt;/p&gt; *" />
-      <item value="DIAGONAL FROM TOP LEFT" />
-      <item value="is Side Selection" />
-      <item value="STATE COMPLETE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
