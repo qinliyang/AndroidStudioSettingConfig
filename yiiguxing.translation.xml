@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;There are two different classes of data change events, item changes and structural * changes. Item changes are when a single item has its data updated but no positional * changes have occurred. Structural changes are when items are inserted, removed or moved * within the data set.&lt;/p&gt; * * &lt;p&gt;This event does not specify what about the data set has changed, forcing * any observers to assume that all existing items and structure may no longer be valid. * LayoutManagers will be forced to fully rebind and relayout all visible views.&lt;/p&gt; * * &lt;p&gt;&lt;code&gt;RecyclerView&lt;/code&gt; will attempt to synthesize visible structural change events * for adapters that report that they have {@link #hasStableIds() stable IDs} when * this method is used. This can help for the purposes of animation and visual * object persistence but individual item views will still need to be rebound * and relaid out.&lt;/p&gt; * * &lt;p&gt;If you are writing an adapter it will always be more efficient to use the more * specific change events if you can. Rely on &lt;code&gt;notifyDataSetChanged()&lt;/code&gt; * as a last resort.&lt;/p&gt; *" />
+      <item value="Notify any registered observers that the data set has changed" />
       <item value="On Boarding Success Event" />
       <item value="Returns milliseconds running in the current thread." />
       <item value="Returns milliseconds since boot, not counting time spent in deep sleep." />
@@ -49,13 +51,11 @@
       <item value="injector" />
       <item value="Tinker Uncaught Handler" />
       <item value="Error parsing XML: not well-formed (invalid token)" />
-      <item value="Found item Attr/pstsIndicatorColor more than one time" />
-      <item value="Sets the properties of this field to transform input to ALL CAPS * display. This may use a &quot;small caps&quot; formatting if available. * This setting will be ignored if this field is editable or selectable. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
