@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Replaces the current adapter with the new one and triggers listeners." />
+      <item value="Called by RecyclerView when it starts observing this Adapter." />
       <item value="Called when a view created by this adapter has been recycled." />
       <item value="* Called by the RecyclerView if a ViewHolder created by this Adapter cannot be recycled * due to its transient state. Upon receiving this callback, Adapter can clear the * animation(s) that effect the View's transient state and return &lt;code&gt;true&lt;/code&gt; so that * the View can be recycled. Keep in mind that the View in question is already removed from * the RecyclerView." />
       <item value="The RecyclerView is currently being dragged by outside input such as user touch input." />
@@ -25,7 +27,6 @@
       <item value="A set of information given to a view when it is attached to its parent" />
       <item value="p&gt;Removes the specified Runnable from the message queue.&lt;/p&gt;" />
       <item value="Removes and recycles all views - both those currently attached, and those in the Recycler." />
-      <item value="Replaces the current adapter with the new one and triggers listeners." />
       <item value="Deposit Activity" />
       <item value="Notify any registered observers that the &lt;code&gt;itemCount&lt;/code&gt; items starting at * position &lt;code&gt;positionStart&lt;/code&gt; have changed. * Equivalent to calling &lt;code&gt;notifyItemRangeChanged(position, itemCount, null);&lt;/code&gt;. *" />
       <item value="Called by RecyclerView when it stops observing this Adapter." />
@@ -50,12 +51,11 @@
       <item value="Returns the View type defined by the adapter" />
       <item value="show Product Seat Tip" />
       <item value="DisplayMetrics to be used for real dimension calculations * @return The time (in ms) it should take for each pixel. For instance, if returned value is * 2 ms, it means scrolling 1000 pixels with LinearInterpolation should take 2 seconds." />
-      <item value="Calculates the scroll speed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
