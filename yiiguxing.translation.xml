@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when a view created by this adapter has been recycled." />
+      <item value="* Called by the RecyclerView if a ViewHolder created by this Adapter cannot be recycled * due to its transient state. Upon receiving this callback, Adapter can clear the * animation(s) that effect the View's transient state and return &lt;code&gt;true&lt;/code&gt; so that * the View can be recycled. Keep in mind that the View in question is already removed from * the RecyclerView." />
+      <item value="The RecyclerView is currently being dragged by outside input such as user touch input." />
+      <item value="The RecyclerView is not currently scrolling." />
+      <item value="The RecyclerView is currently animating to a final position while not under * outside control." />
+      <item value="IDLE" />
+      <item value="SETTLING" />
+      <item value="DRAGGING" />
+      <item value="Return the current scrolling state of the RecyclerView." />
       <item value="&lt;p&gt;There are two different classes of data change events, item changes and structural * changes. Item changes are when a single item has its data updated but no positional * changes have occurred. Structural changes are when items are inserted, removed or moved * within the data set.&lt;/p&gt; * * &lt;p&gt;This event does not specify what about the data set has changed, forcing * any observers to assume that all existing items and structure may no longer be valid. * LayoutManagers will be forced to fully rebind and relayout all visible views.&lt;/p&gt; * * &lt;p&gt;&lt;code&gt;RecyclerView&lt;/code&gt; will attempt to synthesize visible structural change events * for adapters that report that they have {@link #hasStableIds() stable IDs} when * this method is used. This can help for the purposes of animation and visual * object persistence but individual item views will still need to be rebound * and relaid out.&lt;/p&gt; * * &lt;p&gt;If you are writing an adapter it will always be more efficient to use the more * specific change events if you can. Rely on &lt;code&gt;notifyDataSetChanged()&lt;/code&gt; * as a last resort.&lt;/p&gt; *" />
       <item value="Notify any registered observers that the data set has changed" />
       <item value="On Boarding Success Event" />
@@ -42,20 +51,11 @@
       <item value="show Product Seat Tip" />
       <item value="DisplayMetrics to be used for real dimension calculations * @return The time (in ms) it should take for each pixel. For instance, if returned value is * 2 ms, it means scrolling 1000 pixels with LinearInterpolation should take 2 seconds." />
       <item value="Calculates the scroll speed." />
-      <item value="TARGET SEEK SCROLL DISTANCE PX" />
-      <item value="The screen density expressed as dots-per-inch." />
-      <item value="calculate Speed Per Pixel" />
-      <item value="MILLISECONDS PER INCH" />
-      <item value="Calculates the scroll speed. * * @param displayMetrics DisplayMetrics to be used for real dimension calculations * @return The time (in ms) it should take for each pixel. For instance, if returned value is * 2 ms, it means scrolling 1000 pixels with LinearInterpolation should take 2 seconds." />
-      <item value="SCROLL" />
-      <item value="injector" />
-      <item value="Tinker Uncaught Handler" />
-      <item value="Error parsing XML: not well-formed (invalid token)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="275" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
