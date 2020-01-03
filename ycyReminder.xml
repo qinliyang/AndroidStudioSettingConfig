@@ -1,5 +1,10 @@
 <application>
   <component name="ycyReminder">
-    <option name="periodMinutes" value="55" />
+    <option name="remindImages">
+      <list>
+        <option value="file:$USER_HOME$/Downloads/RION_man.jpg" />
+      </list>
+    </option>
+    <option name="periodMinutes" value="2" />
   </component>
 </application>
