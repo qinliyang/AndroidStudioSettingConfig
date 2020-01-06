@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid" />
       <item value="should be opaque" />
       <item value="A TaskDescription's primary color should be opaque" />
       <item value="Cannot call this method while RecyclerView is computing a layout or scrolling android.support.v7.widget.RecyclerView" />
@@ -50,12 +51,11 @@
       <item value="delete Expired If Need" />
       <item value="The distance (in pixels) between the start edge of the item view and * start edge of the RecyclerView." />
       <item value="program Init" />
-      <item value="Notify any registered observers that the item at &lt;code&gt;position&lt;/code&gt; has changed. * Equivalent to calling &lt;code&gt;notifyItemChanged(position, null);&lt;/code&gt;. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="285" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="286" />
+        <entry key="ENGLISH" value="287" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
