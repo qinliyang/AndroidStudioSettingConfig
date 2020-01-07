@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
+      <item value="Never show over-scroll effects." />
+      <item value="Always show over-scroll effects, even if the content fits entirely within the available space." />
       <item value="No resource identifier found for attribute" />
       <item value="identifier" />
       <item value="Check if this view can be scrolled vertically in a certain direction." />
@@ -48,14 +51,11 @@
       <item value="Called by RecyclerView when it stops observing this Adapter." />
       <item value="Indicates the activation state of this view. * * @return true if the view is activated, false otherwise */" />
       <item value="notation" />
-      <item value="risk" />
-      <item value="/** * This is called when the view is detached from a window. At this point it * no longer has a surface for drawing. *" />
-      <item value="The interval along the way to receive * {@link #onTick(long)} callbacks." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="292" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
