@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Max Distance" />
       <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
       <item value="Never show over-scroll effects." />
       <item value="Always show over-scroll effects, even if the content fits entirely within the available space." />
@@ -50,12 +51,11 @@
       <item value="Notify any registered observers that the &lt;code&gt;itemCount&lt;/code&gt; items starting at * position &lt;code&gt;positionStart&lt;/code&gt; have changed. * Equivalent to calling &lt;code&gt;notifyItemRangeChanged(position, itemCount, null);&lt;/code&gt;. *" />
       <item value="Called by RecyclerView when it stops observing this Adapter." />
       <item value="Indicates the activation state of this view. * * @return true if the view is activated, false otherwise */" />
-      <item value="notation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
