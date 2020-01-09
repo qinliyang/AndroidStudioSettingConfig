@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Sets the certificate pinner that constrains which certificates are trusted. By default HTTPS * connections rely on only the {@link #sslSocketFactory SSL socket factory} to establish trust. * Pinning certificates avoids the need to trust certificate authorities. */" />
       <item value="Called by RecyclerView when it starts observing this Adapter." />
       <item value="Layout state should be one of 100 but it is 10" />
       <item value="m Max Distance" />
@@ -50,12 +51,11 @@
       <item value="Removes and recycles all views - both those currently attached, and those in the Recycler." />
       <item value="Deposit Activity" />
       <item value="Notify any registered observers that the &lt;code&gt;itemCount&lt;/code&gt; items starting at * position &lt;code&gt;positionStart&lt;/code&gt; have changed. * Equivalent to calling &lt;code&gt;notifyItemRangeChanged(position, itemCount, null);&lt;/code&gt;. *" />
-      <item value="Called by RecyclerView when it stops observing this Adapter." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="298" />
+        <entry key="ENGLISH" value="299" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
