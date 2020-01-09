@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called by RecyclerView when it starts observing this Adapter." />
       <item value="Layout state should be one of 100 but it is 10" />
       <item value="m Max Distance" />
       <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
@@ -23,7 +24,6 @@
       <item value="fling" />
       <item value="Returns" />
       <item value="Replaces the current adapter with the new one and triggers listeners." />
-      <item value="Called by RecyclerView when it starts observing this Adapter." />
       <item value="Called when a view created by this adapter has been recycled." />
       <item value="* Called by the RecyclerView if a ViewHolder created by this Adapter cannot be recycled * due to its transient state. Upon receiving this callback, Adapter can clear the * animation(s) that effect the View's transient state and return &lt;code&gt;true&lt;/code&gt; so that * the View can be recycled. Keep in mind that the View in question is already removed from * the RecyclerView." />
       <item value="The RecyclerView is currently being dragged by outside input such as user touch input." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
