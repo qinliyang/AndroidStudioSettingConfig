@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="existing" />
+      <item value="Hides an existing fragment. This is only relevant for fragments whose * views have been added to a container, as this will cause the view to * be hidden." />
+      <item value="* Remove an existing fragment. If it was added to a container, its view * is also removed from that container. *" />
+      <item value="* @return &lt;code&gt;true&lt;/code&gt; if this transaction contains no operations, * &lt;code&gt;false&lt;/code&gt; otherwise." />
+      <item value="Detach the given fragment from the UI. This is the same state as * when it is put on the back stack: the fragment is removed from * the UI, however its state is still being actively managed by the * fragment manager. When going into this state its view hierarchy * is destroyed." />
       <item value="et a list of all fragments that are currently added to the FragmentManager. * This may include those that are hidden as well as those that are shown. * This will not include any fragments only in the back stack, or fragments that * are detached or removed. * &lt;p&gt; * The order of the fragments in the list is the order in which they were * added or attached." />
       <item value="Pop the top state off the back stack. Returns true if there was one * to pop, else false. This function is asynchronous -- it enqueues the * request to pop, but the action will not be performed until the application * returns to its event loop." />
       <item value="Negative to check scrolling up, positive to check scrolling down." />
@@ -46,16 +51,11 @@
       <item value="fling" />
       <item value="Returns" />
       <item value="Replaces the current adapter with the new one and triggers listeners." />
-      <item value="Called when a view created by this adapter has been recycled." />
-      <item value="* Called by the RecyclerView if a ViewHolder created by this Adapter cannot be recycled * due to its transient state. Upon receiving this callback, Adapter can clear the * animation(s) that effect the View's transient state and return &lt;code&gt;true&lt;/code&gt; so that * the View can be recycled. Keep in mind that the View in question is already removed from * the RecyclerView." />
-      <item value="The RecyclerView is currently being dragged by outside input such as user touch input." />
-      <item value="The RecyclerView is not currently scrolling." />
-      <item value="The RecyclerView is currently animating to a final position while not under * outside control." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
