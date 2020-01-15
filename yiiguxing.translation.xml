@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the currently selected page. If the ViewPager has already been through its first * layout there will be a smooth animated transition between the current item and the * specified item." />
+      <item value="set Current Item Internal" />
+      <item value="move To State" />
+      <item value="Illegal Argument Exception" />
+      <item value="Invocation Target Exception" />
       <item value="No resource identifier found for attribute 'appComponentFactory' in package 'android'" />
       <item value="@param prefix Text to print at the front of each line. * @param fd The raw file descriptor that the dump is being sent to. * @param writer The PrintWriter to which you should dump your state. This will be * closed for you after you return. * @param args additional arguments to the dump request." />
       <item value="Print the Fragments's state into the given stream." />
@@ -12,7 +17,6 @@
       <item value="No Preload View Pager" />
       <item value="Declared On Click Listener" />
       <item value="reflect" />
-      <item value="Invocation Target Exception" />
       <item value="INSTALL FAILED USER RESTRICTED" />
       <item value="Sets the minimum width of the view. It is not guaranteed the view will * be able to achieve this minimum width (for example, if its parent layout * constrains it with less available width). *" />
       <item value="search Season" />
@@ -47,15 +51,11 @@
       <item value="Called by RecyclerView when it starts observing this Adapter." />
       <item value="Layout state should be one of 100 but it is 10" />
       <item value="m Max Distance" />
-      <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
-      <item value="Never show over-scroll effects." />
-      <item value="Always show over-scroll effects, even if the content fits entirely within the available space." />
-      <item value="No resource identifier found for attribute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
