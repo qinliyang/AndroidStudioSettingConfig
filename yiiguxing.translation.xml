@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INSTALL FAILED USER RESTRICTED" />
       <item value="Sets the minimum width of the view. It is not guaranteed the view will * be able to achieve this minimum width (for example, if its parent layout * constrains it with less available width). *" />
       <item value="search Season" />
       <item value="Return a private FragmentManager for placing and managing Fragments * inside of this Fragment." />
@@ -50,12 +51,11 @@
       <item value="Calls the specified function [block] with `this` value as its receiver and returns `this` value." />
       <item value="Returns the inverse of this boolean." />
       <item value="Calls the specified function [block] with `this` value as its receiver and returns its result." />
-      <item value="assort" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
