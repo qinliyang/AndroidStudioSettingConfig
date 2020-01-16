@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create a {@link CaptureRequest.Builder} for new capture requests, * initialized with template for a target use case. The settings are chosen * to be the best options for the specific camera device, so it is not * recommended to reuse the same request for a different camera device; * create a builder specific for that device and template and override the * settings as desired, instead.&lt;/p&gt; *" />
       <item value="Whether this item is available to be recycled. Default value * is true." />
       <item value="Informs the recycler whether this item can be recycled. Views which are not * recyclable will not be reused for other items until setIsRecyclable() is * later set to true. Calls to setIsRecyclable() should always be paired (one * call to setIsRecyclabe(false) should always be matched with a later call to * setIsRecyclable(true)). Pairs of calls may be nested, as the state is internally * reference-counted." />
       <item value="Return a private FragmentManager for placing and managing Fragments * inside of this Fragment." />
@@ -50,12 +51,11 @@
       <item value="Set a hint to the system about whether this fragment's UI is currently visible * to the user. This hint defaults to true and is persistent across fragment instance * state save and restore." />
       <item value="Add a listener that will be notified of any changes in scroll state or position. *" />
       <item value="skip Memory Cache" />
-      <item value="skip Memory Cache Of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="355" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
