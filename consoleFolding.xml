@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="ERROR: Unable to resolve dependency for ':app@yiespdaDebug/compileClasspath': Could not download imagepipeline.aar (com.facebook.fresco:imagepipeline:1.4.0)" />
+      </list>
+    </option>
+  </component>
+</application>
