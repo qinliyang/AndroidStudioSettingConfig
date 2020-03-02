@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To String Converter Factory" />
+      <item value="serialization" />
+      <item value="converter" />
       <item value="Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
       <item value="Invocation Target Exception" />
       <item value="parameters can only be used with form encoding" />
@@ -48,14 +51,11 @@
       <item value="Detach the given fragment from the UI. This is the same state as * when it is put on the back stack: the fragment is removed from * the UI, however its state is still being actively managed by the * fragment manager. When going into this state its view hierarchy * is destroyed." />
       <item value="et a list of all fragments that are currently added to the FragmentManager. * This may include those that are hidden as well as those that are shown. * This will not include any fragments only in the back stack, or fragments that * are detached or removed. * &lt;p&gt; * The order of the fragments in the list is the order in which they were * added or attached." />
       <item value="Pop the top state off the back stack. Returns true if there was one * to pop, else false. This function is asynchronous -- it enqueues the * request to pop, but the action will not be performed until the application * returns to its event loop." />
-      <item value="Negative to check scrolling up, positive to check scrolling down." />
-      <item value="srl Enable Over Scroll Drag" />
-      <item value="MILLISECONDS PER PX" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="373" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
