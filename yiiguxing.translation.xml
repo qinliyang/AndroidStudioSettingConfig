@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Redirect Payment" />
       <item value="* direct or via its iterator, result in an" />
       <item value="specified" />
       <item value="through" />
@@ -50,12 +51,11 @@
       <item value="host Activity" />
       <item value="Called when a fragment is first attached to its activity. * {@link #onCreate(Bundle)} will be called after this. * * @deprecated See {@link #onAttach(Context)}." />
       <item value="Called when a fragment is first attached to its context. * {@link #onCreate(Bundle)} will be called after this." />
-      <item value="Create a {@link CaptureRequest.Builder} for new capture requests, * initialized with template for a target use case. The settings are chosen * to be the best options for the specific camera device, so it is not * recommended to reuse the same request for a different camera device; * create a builder specific for that device and template and override the * settings as desired, instead.&lt;/p&gt; *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
