@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retrieve the Drawable for the attribute at &lt;var&gt;index&lt;/var&gt;." />
       <item value="Specify a bounding rectangle for the Drawable. This is where the drawable * will draw when its draw() method is called." />
       <item value="set Requested Orientation" />
       <item value="get QR Invite Bitmap" />
@@ -50,12 +51,11 @@
       <item value="Invocation Target Exception" />
       <item value="parameters can only be used with form encoding" />
       <item value="Forbidden" />
-      <item value="Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="427" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
