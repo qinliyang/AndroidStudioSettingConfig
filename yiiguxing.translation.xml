@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If set, this activity will become the start of a new task on this * history stack. A task (from the activity that started it to the * next task activity) defines an atomic group of activities that the * user can move to. Tasks can be moved to the foreground and background; * all of the activities inside of a particular task always remain in * the same order." />
       <item value="Move the task containing this activity to the back of the activity * stack. The activity's order within the task is unchanged. *" />
       <item value="* &lt;p&gt;This flag can not be used when the caller is requesting a result from * the activity being launched." />
       <item value="* Add an {@link OnItemTouchListener} to intercept touch events before they are dispatched * to child views or this view's standard scrolling behavior. *" />
@@ -50,12 +51,11 @@
       <item value="represents" />
       <item value="defined" />
       <item value="endpoints" />
-      <item value="eagerly Validate Methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="441" />
-        <entry key="ENGLISH" value="442" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="444" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
