@@ -1,7 +1,5 @@
 <code_scheme name="Default" version="173">
-  <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
-  </AndroidXmlCodeStyleSettings>
+  <option name="AUTODETECT_INDENTS" value="false" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="WRAP_ON_TYPING" value="1" />
     <option name="RIGHT_MARGIN" value="72" />
