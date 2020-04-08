@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Trim Memory" />
       <item value="The component launched as the first activity in the task. This can * be considered the &quot;application&quot; of this task." />
       <item value="Flag for {@link #moveTaskToFront(int, int)}: don't count this as a * user-instigated action, so the current activity will not receive a * hint that the user is leaving." />
       <item value="Flag for {@link #moveTaskToFront(int, int)}: also move the &quot;home&quot; * activity along with the task, so it is positioned immediately behind * the task." />
@@ -50,12 +51,11 @@
       <item value="Finds a fragment that was identified by the given id either when inflated * from XML or as the container ID when added in a transaction." />
       <item value="either" />
       <item value="identified" />
-      <item value="Finds a fragment that was identified by the given id either when inflated * from XML or as the container ID when added in a transaction. This first * searches through fragments that are currently added to the manager's * activity; if no such fragment is found, then all fragments currently * on the back stack associated with this ID are searched. * @return The fragment if found or null otherwise." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="506" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
