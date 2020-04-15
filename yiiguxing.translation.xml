@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lollipop" />
+      <item value="* Temporary until we completely switch to" />
+      <item value="Marshmallow" />
+      <item value="set Web Contents Debugging Enabled" />
       <item value="Wechat" />
       <item value="Timeline" />
       <item value="Platform Type" />
@@ -47,15 +51,11 @@
       <item value="leaked" />
       <item value="Returns a list of RunningTaskInfo records describing each of * the running tasks." />
       <item value="FLAG ACTIVITY REORDER TO FRONT" />
-      <item value="* If set, when sending a broadcast only registered receivers will be * called -- no BroadcastReceiver components will be launched. */" />
-      <item value="By default a document created by {@link #FLAG_ACTIVITY_NEW_DOCUMENT} will * have its entry in recent tasks removed when the user closes it (with back * or however else it may finish()). If you would like to instead allow the * document to be kept in recents so that it can be re-launched, you can use * this flag. When set and the task's activity is finished, the recents * entry will remain in the interface for the user to re-launch it, like a * recents entry for a top-level application." />
-      <item value="FLAG ACTIVITY RETAIN IN RECENTS" />
-      <item value="If set in an Intent passed to {@link Context#startActivity Context.startActivity()}, * this flag will cause a newly launching task to be placed on top of the current * home activity task (if there is one). That is, pressing back from the task * will always return the user to home even if that was not the last activity they * saw." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="527" />
-        <entry key="ENGLISH" value="527" />
+        <entry key="CHINESE" value="530" />
+        <entry key="ENGLISH" value="531" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
