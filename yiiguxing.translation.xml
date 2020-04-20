@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(Usually optional) Explicitly set the component to handle the intent. * If left with the default value of null, the system will determine the * appropriate class to use based on the other fields (action, data, * type, categories) in the Intent. If this class is defined, the * specified class will always be used regardless of the other fields. You * should only set this value when you know you absolutely want a specific * class to be used; otherwise it is better to let the system find the * appropriate class so that you will respect the installed applications * and user preferences." />
+      <item value="Create a new component identifier from a Context and class name." />
+      <item value="If set, this intent will always match any components in packages that * are currently stopped. This is the default behavior when * {@link #FLAG_EXCLUDE_STOPPED_PACKAGES} is not set. If both of these * flags are set, this one wins (it allows overriding of exclude for * places where the framework may automatically set the exclude flag)." />
+      <item value="FLAG INCLUDE STOPPED PACKAGES" />
       <item value="The resulting string" />
       <item value="Writes retrieved data directly to the disk cache before it's decoded." />
       <item value="Saves no data to cache." />
@@ -47,15 +51,11 @@
       <item value="Number of activities that are currently running (not stopped * and persisted) in this task." />
       <item value="Description of the task's current state." />
       <item value="A unique identifier for this task." />
-      <item value="The stack that currently contains this task." />
-      <item value="* The activity component at the top of the history stack of the task. * This is what the user is currently doing." />
-      <item value="Information you can retrieve about a particular task that is currently * &quot;running&quot; in the system. Note that a running task does not mean the * given task actually has a process it is actively running in; it simply * means that the user has gone to it and never closed it, but currently * the system may have killed its process and is only holding on to its * last state in order to restart it when the user returns." />
-      <item value="BANNER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="540" />
+        <entry key="ENGLISH" value="541" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
