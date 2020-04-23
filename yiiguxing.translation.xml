@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AARs can only be built for plugin or module projects." />
+      <item value="// This call to setState tells the Flutter framework that something has // changed in this State, which causes it to rerun the build method below // so that the display can reflect the updated values. If we changed // _counter without calling setState(), then the build method would not be // called again, and so nothing would appear to happen." />
+      <item value="main Axis Alignment" />
+      <item value="// Column is also a layout widget. It takes a list of children and // arranges them vertically. By default, it sizes itself to fit its // children horizontally, and tries to be as tall as its parent. //" />
+      <item value="Column" />
+      <item value="Scaffold" />
+      <item value="Notice that the counter didn't reset back to zero; the application // is not restarted." />
+      <item value="This widget is the root of your application." />
       <item value="Warning! This package referenced a Flutter repository via the .packages file that is no longer available. The repository from which the 'flutter' tool is currently executing will be used instead. running Flutter tool: /Users/qinliyang/DEV/flutter previous reference : /Users/ricky/Documents/flutter This can happen if you deleted or moved your copy of the Flutter repository, or if it was on a volume that is no longer mounted or has been mounted at a different location. Please check your system path to verify that you are running the expected version (run 'flutter --version' to see which flutter is on your path)." />
       <item value="Waiting for another flutter command to release the startup lock..." />
       <item value="previous reference : /Users/ricky/Documents/flutter This can happen if you deleted or moved your copy of the Flutter repository, or if it was on a volume that is no longer mounted or has been mounted at a different location. Please check your system path to verify that you are running the expected version (run 'flutter --version' to see which flutter is on your path)." />
@@ -43,19 +51,11 @@
       <item value="Invite Share" />
       <item value="Four" />
       <item value="Edge" />
-      <item value="种草师" />
-      <item value="Optional tag name for the fragment, to later retrieve the * fragment with {@link FragmentManager#findFragmentByTag(String) * FragmentManager.findFragmentByTag(String)}." />
-      <item value="Constant for {@link #importance}: This process is running the * foreground UI; that is, it is the thing currently at the top of the screen * that the user is interacting with." />
-      <item value="Context.startActivity(Intent, Bundle)} for more details." />
-      <item value="&lt;p&gt;As a special case, if you call startActivityForResult() with a requestCode * &gt;= 0 during the initial onCreate(Bundle savedInstanceState)/onResume() of your * activity, then your window will not be displayed until a result is * returned back from the started activity. This is to avoid visible * flickering when redirecting to another activity." />
-      <item value="Note that this method should only be used with Intent protocols * that are defined to return a result. In other protocols (such as * {@link Intent#ACTION_MAIN} or {@link Intent#ACTION_VIEW}), you may * not get the result when you expect. For example, if the activity you * are launching uses {@link Intent#FLAG_ACTIVITY_NEW_TASK}, it will not * run in your task and thus you will immediately receive a cancel result. *" />
-      <item value="Launch an activity for which you would like a result when it finished. * When this activity exits, your * onActivityResult() method will be called with the given requestCode. * Using a negative requestCode is the same as calling * {@link #startActivity} (the activity is not launched as a sub-activity). *" />
-      <item value="with no options." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="CHINESE" value="565" />
+        <entry key="ENGLISH" value="566" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
