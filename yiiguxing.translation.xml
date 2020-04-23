@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Waiting for another flutter command to release the startup lock..." />
+      <item value="previous reference : /Users/ricky/Documents/flutter This can happen if you deleted or moved your copy of the Flutter repository, or if it was on a volume that is no longer mounted or has been mounted at a different location. Please check your system path to verify that you are running the expected version (run 'flutter --version' to see which flutter is on your path)." />
+      <item value="This package referenced a Flutter repository via the .packages file that is no longer available. The repository from which the 'flutter' tool is currently executing will be used instead." />
       <item value="Android toolchain - develop for Android devices (Android SDK version 29.0.0) ! Some Android licenses not accepted. To resolve this, run: flutter doctor --android-licenses" />
       <item value="flutter.sdk must point to the Flutter SDK directory" />
       <item value="No such file or directory" />
@@ -48,14 +51,11 @@
       <item value="Launch an activity for which you would like a result when it finished. * When this activity exits, your * onActivityResult() method will be called with the given requestCode. * Using a negative requestCode is the same as calling * {@link #startActivity} (the activity is not launched as a sub-activity). *" />
       <item value="with no options." />
       <item value="Modifies the standard behavior to allow results to be delivered to fragments. * This imposes a restriction that requestCode be &lt;= 0xffff." />
-      <item value="Swipe Cards View" />
-      <item value="* Shows a previously hidden fragment. This is only relevant for fragments whose * views have been added to a container, as this will cause the view to * be shown." />
-      <item value="Call this when your activity is done and should be closed. The * ActivityResult is propagated back to whoever launched you via * onActivityResult()." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="553" />
-        <entry key="ENGLISH" value="554" />
+        <entry key="CHINESE" value="556" />
+        <entry key="ENGLISH" value="557" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
