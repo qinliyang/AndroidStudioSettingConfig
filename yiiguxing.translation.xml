@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scaffold" />
+      <item value="// Try running your application with &quot;flutter run&quot;. You'll see the // application has a blue toolbar. Then, without quitting the app, try // changing the primarySwatch below to Colors.green and then invoke // &quot;hot reload&quot; (press &quot;r&quot; in the console where you ran &quot;flutter run&quot;, // or simply save your changes to &quot;hot reload&quot; in a Flutter IDE). // Notice that the counter didn't reset back to zero; the application // is not restarted." />
+      <item value="primary Swatch" />
+      <item value="/ This widget is the home page of your application. It is stateful, meaning // that it has a State object (defined below) that contains fields that affect // how it looks. // This class is the configuration for the state. It holds the values (in this // case the title) provided by the parent (in this case the App widget) and // used by the build method of the State. Fields in a Widget subclass are // always marked &quot;final&quot;." />
+      <item value="// Here we take the value from the MyHomePage object that was created by // the App.build method, and use it to set our appbar title." />
+      <item value="// This method is rerun every time setState is called, for instance as done // by the _incrementCounter method above. // // The Flutter framework has been optimized to make rerunning build methods // fast, so that you can just rebuild anything that needs updating rather // than having to individually change instances of widgets." />
+      <item value="/ This call to setState tells the Flutter framework that something has // changed in this State, which causes it to rerun the build method below // so that the display can reflect the updated values. If we changed // _counter without calling setState(), then the build method would not be // called again, and so nothing would appear to happen." />
       <item value="# This file tracks properties of this Flutter project." />
       <item value="# This is a generated file; do not edit or check into version control." />
       <item value="This can happen if you deleted or moved your copy of the Flutter repository, or if it was on a volume that is no longer mounted or has been mounted at a different location. Please check your system path to verify that you are running the expected version (run 'flutter --version' to see which flutter is on your path)." />
@@ -17,7 +24,6 @@
       <item value="main Axis Alignment" />
       <item value="// Column is also a layout widget. It takes a list of children and // arranges them vertically. By default, it sizes itself to fit its // children horizontally, and tries to be as tall as its parent. //" />
       <item value="Column" />
-      <item value="Scaffold" />
       <item value="Notice that the counter didn't reset back to zero; the application // is not restarted." />
       <item value="This widget is the root of your application." />
       <item value="Waiting for another flutter command to release the startup lock..." />
@@ -45,17 +51,11 @@
       <item value="Saves no data to cache." />
       <item value="Velocity Tracker" />
       <item value="hardware Accelerated" />
-      <item value="supports Rtl" />
-      <item value="Lollipop" />
-      <item value="* Temporary until we completely switch to" />
-      <item value="Marshmallow" />
-      <item value="set Web Contents Debugging Enabled" />
-      <item value="Wechat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="CHINESE" value="585" />
+        <entry key="ENGLISH" value="586" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
