@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Make the host app depend on the Flutter module:" />
+      <item value="Ensure you have the repositories configured, otherwise add them:" />
+      <item value="Open &lt;host&gt;/app/build.gradle" />
+      <item value="Consuming the Module" />
       <item value="The plugin `flutter_boost` is built using an older version of the Android plugin API which assumes that it's running in a full-Flutter environment. It may have undefined behaviors when Flutter is integrated into an existing app as a module." />
       <item value="cupertino icons" />
       <item value="# The following adds the Cupertino Icons font to your application. # Use with the CupertinoIcons class for iOS style icons." />
@@ -24,8 +28,6 @@
       <item value="Implementation" />
       <item value="profile" />
       <item value=". Make the host app depend on the Flutter module:" />
-      <item value="Ensure you have the repositories configured, otherwise add them:" />
-      <item value="Consuming the Module" />
       <item value="AARs can only be built for plugin or module projects." />
       <item value="// This call to setState tells the Flutter framework that something has // changed in this State, which causes it to rerun the build method below // so that the display can reflect the updated values. If we changed // _counter without calling setState(), then the build method would not be // called again, and so nothing would appear to happen." />
       <item value="main Axis Alignment" />
@@ -49,13 +51,11 @@
       <item value="Locks the focus as the first step for a still image capture." />
       <item value="The specified Android SDK Build Tools version (27.0.3) is ignored, as it is below the minimum supported version (28.0.2) for Android Gradle Plugin 3.2.0." />
       <item value="Remote host closed connection during handshake" />
-      <item value="(Usually optional) Explicitly set the component to handle the intent. * If left with the default value of null, the system will determine the * appropriate class to use based on the other fields (action, data, * type, categories) in the Intent. If this class is defined, the * specified class will always be used regardless of the other fields. You * should only set this value when you know you absolutely want a specific * class to be used; otherwise it is better to let the system find the * appropriate class so that you will respect the installed applications * and user preferences." />
-      <item value="Create a new component identifier from a Context and class name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="593" />
-        <entry key="ENGLISH" value="594" />
+        <entry key="CHINESE" value="597" />
+        <entry key="ENGLISH" value="598" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
