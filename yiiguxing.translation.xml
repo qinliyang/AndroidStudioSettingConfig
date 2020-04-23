@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suggestion" />
       <item value="Column is also a layout widget. It takes a list of children and // arranges them vertically. By default, it sizes itself to fit its // children horizontally, and tries to be as tall as its parent. // // Invoke &quot;debug painting&quot; (press &quot;p&quot; in the console, choose the // &quot;Toggle Debug Paint&quot; action from the Flutter Inspector in Android // Studio, or the &quot;Toggle Debug Paint&quot; command in Visual Studio Code) // to see the wireframe for each widget. // // Column has various properties to control how it sizes itself and // how it positions its children. Here we use mainAxisAlignment to // center the children vertically; the main axis here is the vertical // axis because Columns are vertical (the cross axis would be // horizontal)." />
       <item value="// Center is a layout widget. It takes a single child and positions it // in the middle of the parent." />
       <item value="Scaffold" />
@@ -50,12 +51,11 @@
       <item value="FLAG INCLUDE STOPPED PACKAGES" />
       <item value="The resulting string" />
       <item value="Writes retrieved data directly to the disk cache before it's decoded." />
-      <item value="Saves no data to cache." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="587" />
-        <entry key="ENGLISH" value="588" />
+        <entry key="CHINESE" value="588" />
+        <entry key="ENGLISH" value="589" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
