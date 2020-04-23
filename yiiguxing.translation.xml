@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot load settings from file '/Users/ricky/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.7/android/shared_preferences.iml': File /Users/ricky/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.7/android/shared_preferences.iml does not exist Please correct the file content" />
       <item value="Make the host app depend on the Flutter module:" />
       <item value="Ensure you have the repositories configured, otherwise add them:" />
       <item value="Open &lt;host&gt;/app/build.gradle" />
@@ -50,12 +51,11 @@
       <item value="obtain Styled Attributes" />
       <item value="Locks the focus as the first step for a still image capture." />
       <item value="The specified Android SDK Build Tools version (27.0.3) is ignored, as it is below the minimum supported version (28.0.2) for Android Gradle Plugin 3.2.0." />
-      <item value="Remote host closed connection during handshake" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="597" />
-        <entry key="ENGLISH" value="598" />
+        <entry key="CHINESE" value="598" />
+        <entry key="ENGLISH" value="599" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
