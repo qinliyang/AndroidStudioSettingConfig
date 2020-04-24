@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uses Cleartext Traffic" />
       <item value="reflect" />
       <item value="Invocation Target Exception" />
       <item value="java.lang.reflect.Invocation Target Exception" />
@@ -50,12 +51,11 @@
       <item value="Column" />
       <item value="Notice that the counter didn't reset back to zero; the application // is not restarted." />
       <item value="This widget is the root of your application." />
-      <item value="Waiting for another flutter command to release the startup lock..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="614" />
-        <entry key="ENGLISH" value="615" />
+        <entry key="CHINESE" value="615" />
+        <entry key="ENGLISH" value="616" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
