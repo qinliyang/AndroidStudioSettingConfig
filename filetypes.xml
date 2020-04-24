@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="北京城.md" type="PLAIN_TEXT" />
+      <mapping pattern="qqqq" type="PLAIN_TEXT" />
       <mapping ext="aar" type="Properties" />
       <mapping pattern="北京城" type="Smali" />
     </extensionMap>
