@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the value of the first argument raised to the power of the * second argument. Special cases: *" />
+      <item value="pow" />
+      <item value="Gets result code." />
+      <item value="* &lt;p&gt;The default implementation makes no guarantees about synchronization * or atomicity properties of this method. Any implementation providing * atomicity guarantees must override this method and document its * concurrency properties." />
       <item value="fire User Event Triggered" />
       <item value="user Event Triggered" />
       <item value="MSGTYPE HEARTBEAT RESPONSE" />
@@ -47,16 +51,12 @@
       <item value="Pulse Bean" />
       <item value="packet Separator" />
       <item value="separator" />
-      <item value="The constant CODEC_MAP." />
-      <item value="Get serializeCode serializeCode." />
-      <item value="put If Absent" />
-      <item value="full Length(4B) and head length(2B) will fix in the end." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
-        <entry key="ENGLISH" value="741" />
-        <entry key="POLISH" value="2" />
+        <entry key="CHINESE" value="743" />
+        <entry key="ENGLISH" value="744" />
+        <entry key="POLISH" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
