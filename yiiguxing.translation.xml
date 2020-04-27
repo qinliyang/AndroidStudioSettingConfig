@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configured compressor by user, default is NONE" />
+      <item value="MSGTYPE RESQUEST ONEWAY" />
+      <item value="server Message Sender" />
+      <item value="For testing. When the thread pool is full, you can change this variable and share the stack" />
       <item value="Channel Inbound Handler Adapter" />
       <item value="user Event Triggered" />
       <item value="pipeline" />
@@ -47,15 +51,11 @@
       <item value="maxFrameLength must be a positive integer:" />
       <item value="Length Field Based Frame Decoder" />
       <item value="MSGTYPE HEARTBEAT RESPONSE" />
-      <item value="PONG" />
-      <item value="MSGTYPE HEARTBEAT REQUEST" />
-      <item value="V 1_HEAD LENGTH" />
-      <item value="direct read head with zero-copy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="729" />
-        <entry key="ENGLISH" value="730" />
+        <entry key="CHINESE" value="733" />
+        <entry key="ENGLISH" value="734" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
