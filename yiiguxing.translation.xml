@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Channel Inbound Handler Adapter" />
+      <item value="user Event Triggered" />
+      <item value="pipeline" />
+      <item value="Idle State Handler" />
+      <item value="Channel Duplex Handler" />
+      <item value="bootstrap" />
+      <item value="/ Close the connection when an exception is raised. // NettyTcpClient.getInstance().setConnectStatus(false);" />
+      <item value="Simple Channel Inbound Handler" />
+      <item value="HEARTBEAT SEQUENCE" />
       <item value="ifreecomm.nettyserver.netty.NettyTcpServer started and listen on /:::8080" />
       <item value="Creates a socket address where the IP address is the wildcard address * and the port number a specified value." />
       <item value="Gets codec." />
@@ -42,20 +51,11 @@
       <item value="MSGTYPE HEARTBEAT REQUEST" />
       <item value="V 1_HEAD LENGTH" />
       <item value="direct read head with zero-copy" />
-      <item value="int lengthFieldOffset, magic code is 2B, and version is 1B, and then FullLength. so value is 3" />
-      <item value="int lengthAdjustment, FullLength include all data and read 7 bytes before, so the left length is (FullLength-7). so values is -7" />
-      <item value="int maxFrameLength, int lengthFieldOffset, magic code is 2B, and version is 1B, and then FullLength. so value is 3 int lengthFieldLength, FullLength is int(4B). so values is 4 int lengthAdjustment, FullLength include all data and read 7 bytes before, so the left length is (FullLength-7). so values is -7 int initialBytesToStrip we will check magic code and version self, so do not strip any bytes. so values is 0 */" />
-      <item value="on Socket Write Response" />
-      <item value="response Handler" />
-      <item value="ACTION WRITE COMPLETE" />
-      <item value="on Pulse Send" />
-      <item value="ACTION PULSE REQUEST" />
-      <item value="flip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="718" />
-        <entry key="ENGLISH" value="719" />
+        <entry key="CHINESE" value="729" />
+        <entry key="ENGLISH" value="730" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
