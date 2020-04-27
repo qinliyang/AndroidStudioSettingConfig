@@ -1,12 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Configured compressor by user, default is NONE" />
+      <item value="fire User Event Triggered" />
+      <item value="user Event Triggered" />
+      <item value="MSGTYPE HEARTBEAT RESPONSE" />
+      <item value="MSGTYPE HEARTBEAT REQUEST" />
+      <item value="full Length(4B) and head length(2B) will fix in the end" />
+      <item value="SEATA" />
+      <item value="Configured codec by user, default is SEATA" />
       <item value="MSGTYPE RESQUEST ONEWAY" />
+      <item value="Configured compressor by user, default is NONE" />
       <item value="server Message Sender" />
       <item value="For testing. When the thread pool is full, you can change this variable and share the stack" />
       <item value="Channel Inbound Handler Adapter" />
-      <item value="user Event Triggered" />
       <item value="pipeline" />
       <item value="Idle State Handler" />
       <item value="Channel Duplex Handler" />
@@ -45,18 +51,12 @@
       <item value="Get serializeCode serializeCode." />
       <item value="put If Absent" />
       <item value="full Length(4B) and head length(2B) will fix in the end." />
-      <item value="actual Frame Length" />
-      <item value="maxFrameLength (&quot; + maxFrameLength + &quot;) must be equal to or greater than lengthFieldOffset" />
-      <item value="lengthFieldOffset must be a non-negative integer" />
-      <item value="maxFrameLength must be a positive integer:" />
-      <item value="Length Field Based Frame Decoder" />
-      <item value="MSGTYPE HEARTBEAT RESPONSE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="733" />
-        <entry key="ENGLISH" value="734" />
-        <entry key="POLISH" value="1" />
+        <entry key="CHINESE" value="740" />
+        <entry key="ENGLISH" value="741" />
+        <entry key="POLISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
