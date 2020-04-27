@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="full Length(4B) and head length(2B) will fix in the end." />
+      <item value="actual Frame Length" />
+      <item value="maxFrameLength (&quot; + maxFrameLength + &quot;) must be equal to or greater than lengthFieldOffset" />
+      <item value="lengthFieldOffset must be a non-negative integer" />
+      <item value="maxFrameLength must be a positive integer:" />
+      <item value="Length Field Based Frame Decoder" />
+      <item value="MSGTYPE HEARTBEAT RESPONSE" />
+      <item value="PONG" />
+      <item value="MSGTYPE HEARTBEAT REQUEST" />
+      <item value="V 1_HEAD LENGTH" />
+      <item value="direct read head with zero-copy" />
+      <item value="int lengthFieldOffset, magic code is 2B, and version is 1B, and then FullLength. so value is 3" />
+      <item value="int lengthAdjustment, FullLength include all data and read 7 bytes before, so the left length is (FullLength-7). so values is -7" />
+      <item value="int maxFrameLength, int lengthFieldOffset, magic code is 2B, and version is 1B, and then FullLength. so value is 3 int lengthFieldLength, FullLength is int(4B). so values is 4 int lengthAdjustment, FullLength include all data and read 7 bytes before, so the left length is (FullLength-7). so values is -7 int initialBytesToStrip we will check magic code and version self, so do not strip any bytes. so values is 0 */" />
       <item value="on Socket Write Response" />
       <item value="response Handler" />
       <item value="ACTION WRITE COMPLETE" />
@@ -37,25 +51,11 @@
       <item value="allocate" />
       <item value="Allocates a new byte buffer. * * &lt;p&gt; The new buffer's position will be zero, its limit will be its * capacity, its mark will be undefined, and each of its elements will be * initialized to zero. It will have a {@link #array * &lt;/code&gt;backing array&lt;code&gt;}, and its {@link #arrayOffset &lt;/code&gt;array * offset&lt;code&gt;} will be zero. *" />
       <item value="* Returns the byte array that backs this * buffer&amp;nbsp;&amp;nbsp;&lt;i&gt;(optional operation)&lt;/i&gt;. * * &lt;p&gt; Modifications to this buffer's content will cause the returned * array's content to be modified, and vice versa. * * &lt;p&gt; Invoke the {@link #hasArray hasArray} method before invoking this * method in order to ensure that this buffer has an accessible backing * array. &lt;/p&gt;" />
-      <item value="* &lt;p&gt; Writes four bytes containing the given int value, in the * current byte order, into this buffer at the current position, and then * increments the position by four. &lt;/p&gt;" />
-      <item value="Pulse Manager" />
-      <item value="BIG ENDIAN" />
-      <item value="remaining" />
-      <item value="Need to follow the transmission protocol.\r\n&quot; + &quot;Please check the client/server code.\r\n&quot; + &quot;According to the packet header data in the transport protocol, the package length is &quot; + bodyLength + &quot; Bytes.\r\n&quot; + &quot;You need check your &lt;ReaderProtocol&gt; definition" />
-      <item value="cause this time data from remaining buffer not from channel." />
-      <item value="&quot;need read body length:" />
-      <item value="Heap Byte Buffer" />
-      <item value="wrap" />
-      <item value="get Write Package Bytes" />
-      <item value="/** * Constant denoting big-endian byte order. In this order, the bytes of a * multibyte value are ordered from most significant to least significant. */" />
-      <item value="Complex Demo Activity" />
-      <item value="store File" />
-      <item value="choose Camera Id By Facing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="673" />
+        <entry key="CHINESE" value="686" />
+        <entry key="ENGLISH" value="687" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
