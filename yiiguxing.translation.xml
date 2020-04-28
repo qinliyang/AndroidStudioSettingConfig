@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection refused" />
+      <item value="on Register Message" />
+      <item value="send Response" />
       <item value="The type Heartbeat message." />
       <item value="Decode frame error!" />
       <item value="Returns the value of the first argument raised to the power of the * second argument. Special cases: *" />
@@ -48,14 +51,11 @@
       <item value="Relative &lt;i&gt;put&lt;/i&gt; method&amp;nbsp;&amp;nbsp;&lt;i&gt;(optional operation)&lt;/i&gt;. * * &lt;p&gt; Writes the given byte into this buffer at the current * position, and then increments the position. &lt;/p&gt; *" />
       <item value="Hand Shake" />
       <item value="* &lt;p&gt; Writes four bytes containing the given int value, in the * current byte order, into this buffer at the current position, and then * increments the position by four. &lt;/p&gt; *" />
-      <item value="on Socket Read Response" />
-      <item value="Pulse" />
-      <item value="Pulse Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="745" />
-        <entry key="ENGLISH" value="746" />
+        <entry key="CHINESE" value="748" />
+        <entry key="ENGLISH" value="749" />
         <entry key="POLISH" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
