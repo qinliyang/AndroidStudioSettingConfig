@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Service Status Connect Changed" />
       <item value="all Idle Time Seconds" />
       <item value="writer Idle Time Seconds" />
       <item value="reader Idle Time Seconds" />
@@ -50,12 +51,11 @@
       <item value="OkSocket, duplex read error,thread is dead with exception:java.lang.ArrayIndexOutOfBoundsException: length=4; index=4" />
       <item value="offer" />
       <item value="run In Loop Thread" />
-      <item value="before Loop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="755" />
-        <entry key="ENGLISH" value="756" />
+        <entry key="CHINESE" value="756" />
+        <entry key="ENGLISH" value="757" />
         <entry key="POLISH" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
