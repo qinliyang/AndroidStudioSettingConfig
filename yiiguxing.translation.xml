@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suggestion: use a compatible library with a minSdk of at most 17, or increase this project's minSdk version to at least 18, or use tools:overrideLibrary=&quot;com.littlegreens.netty.client&quot; to force usage (may lead to runtime failures)" />
       <item value="This method serializes the specified object into its equivalent representation as a tree of * {@link JSONObject}s. *" />
       <item value="MSGTYPE RESPONSE" />
       <item value="CONFIGURED COMPRESSOR" />
@@ -50,12 +51,11 @@
       <item value="Simple Channel Inbound Handler" />
       <item value="HEARTBEAT SEQUENCE" />
       <item value="ifreecomm.nettyserver.netty.NettyTcpServer started and listen on /:::8080" />
-      <item value="Creates a socket address where the IP address is the wildcard address * and the port number a specified value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="771" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="CHINESE" value="772" />
+        <entry key="ENGLISH" value="773" />
         <entry key="POLISH" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
