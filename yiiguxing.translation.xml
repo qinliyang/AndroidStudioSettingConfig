@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Start Command" />
+      <item value="Wait until the connection is closed." />
       <item value="* * Return the current display metrics that are in effect for this resource * object. The returned object should be treated as read-only. *" />
       <item value="* Return the current display metrics that are in effect for this resource * object. The returned object should be treated as read-only. * * @return Th" />
       <item value="Flip Drag View" />
@@ -12,7 +14,6 @@
       <item value="Tab Point Show Event" />
       <item value="sync" />
       <item value="The type Should never happen exception." />
-      <item value="Wait until the connection is closed." />
       <item value="Suggestion: use a compatible library with a minSdk of at most 17, or increase this project's minSdk version to at least 18, or use tools:overrideLibrary=&quot;com.littlegreens.netty.client&quot; to force usage (may lead to runtime failures)" />
       <item value="This method serializes the specified object into its equivalent representation as a tree of * {@link JSONObject}s. *" />
       <item value="MSGTYPE RESPONSE" />
@@ -50,12 +51,11 @@
       <item value="MSGTYPE HEARTBEAT RESPONSE" />
       <item value="full Length(4B) and head length(2B) will fix in the end" />
       <item value="SEATA" />
-      <item value="Configured codec by user, default is SEATA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="784" />
-        <entry key="ENGLISH" value="785" />
+        <entry key="CHINESE" value="786" />
+        <entry key="ENGLISH" value="787" />
         <entry key="POLISH" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
