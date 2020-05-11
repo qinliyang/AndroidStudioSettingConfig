@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can't toast on a thread that has not called Looper.prepare()" />
+      <item value="Bootstrap" />
       <item value="REQUEST BIND PHONE" />
       <item value="Notification Ind" />
       <item value="Multimedia Message Pdu" />
@@ -49,13 +51,11 @@
       <item value="MSGTYPE HEARTBEAT REQUEST" />
       <item value="full Length(4B) and head length(2B) will fix in the end." />
       <item value="Illegal Argument Exception" />
-      <item value="Unable to resolve dependency for ':nettyclientlib@debug/compileClasspath': Could not download fastjson.jar (com.alibaba:fastjson:1.1.71.android)" />
-      <item value="Json Object Decoder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="809" />
-        <entry key="ENGLISH" value="810" />
+        <entry key="CHINESE" value="811" />
+        <entry key="ENGLISH" value="812" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
