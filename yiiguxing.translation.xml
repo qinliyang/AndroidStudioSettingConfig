@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only fullscreen opaque activities can request orientation" />
+      <item value="Unable to start activity ComponentInfo" />
       <item value="leading" />
       <item value="dynamic" />
       <item value="FLUTTER FRAGMENT PAGE URL" />
@@ -49,13 +51,11 @@
       <item value="Queue" />
       <item value="is Show One Action Get Coupon" />
       <item value="Wait until the connection is closed." />
-      <item value="Notify" />
-      <item value="Factor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="836" />
-        <entry key="ENGLISH" value="837" />
+        <entry key="CHINESE" value="838" />
+        <entry key="ENGLISH" value="839" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
