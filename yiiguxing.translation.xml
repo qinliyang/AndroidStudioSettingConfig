@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only fullscreen opaque activities can request orientation" />
+      <item value="multidex" />
       <item value="get Velocity By Distance" />
       <item value="Edge Insets" />
-      <item value="Only fullscreen opaque activities can request orientation" />
       <item value="Unable to start activity ComponentInfo" />
       <item value="leading" />
       <item value="dynamic" />
@@ -50,12 +51,11 @@
       <item value="* * Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
       <item value="* Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
       <item value="Inserts the specified element into this queue if it is possible to do so * immediately without violating capacity restrictions, returning * {@code true} upon success and throwing an {@code IllegalStateException} * if no space is currently available." />
-      <item value="Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="840" />
-        <entry key="ENGLISH" value="841" />
+        <entry key="CHINESE" value="842" />
+        <entry key="ENGLISH" value="843" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
