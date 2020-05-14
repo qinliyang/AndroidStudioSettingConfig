@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@deprecated use {@link #findViewHolderForLayoutPosition(int)} or * {@link #findViewHolderForAdapterPosition(int)}" />
+      <item value="* * Return the ViewHolder for the item in the given position of the data set as of the latest * layout pass." />
+      <item value="The position of the item in the data set of the adapter" />
+      <item value="distribute Complete" />
       <item value="Affected" />
       <item value="Could not determine the dependencies of task ':flutter:compileDebugAidl'." />
       <item value="Only fullscreen opaque activities can request orientation" />
@@ -47,15 +51,11 @@
       <item value="we set wifi's score to 1000, so will always set wifi as a default network." />
       <item value="restart" />
       <item value="crashed" />
-      <item value="Helper for getTransformation. Subclasses should implement this to apply * their transforms given an interpolation value. Implementations of this * method should always replace the specified Transformation or document * they are doing otherwise." />
-      <item value="random Rotation" />
-      <item value="on Animation Repeat" />
-      <item value="factor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="849" />
-        <entry key="ENGLISH" value="850" />
+        <entry key="CHINESE" value="853" />
+        <entry key="ENGLISH" value="854" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
