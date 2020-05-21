@@ -1,5 +1,16 @@
 <application>
   <component name="ycyReminder">
-    <option name="periodMinutes" value="55" />
+    <option name="remindImages">
+      <list>
+        <option value="file:$USER_HOME$/Downloads/Captain%20America.jpg" />
+        <option value="file:$USER_HOME$/Downloads/iron%20man.jpg" />
+        <option value="file:$USER_HOME$/Downloads/IRON_MAN%20.jpg" />
+        <option value="file:$USER_HOME$/Downloads/IronMan.jpg" />
+        <option value="file:$USER_HOME$/Downloads/ironMan.png" />
+        <option value="file:$USER_HOME$/Downloads/RION_man.jpg" />
+      </list>
+    </option>
+    <option name="periodMinutes" value="10" />
+    <option name="notifyContent" value="代码写好久了，该休息一下啦～" />
   </component>
 </application>
