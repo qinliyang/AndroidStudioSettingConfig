@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the opacity of the view to a value from 0 to 1, where 0 means the view is * completely transparent and 1 means the view is completely opaque. *" />
+      <item value="* Sets the opacity of the view to a value from 0 to 1, where 0 means the view is * completely transparent and 1 means the view is completely opaque." />
+      <item value="blocks Descendants" />
+      <item value="is Need Adjust Related View" />
+      <item value="Only fullscreen opaque activities can request orientation" />
       <item value="platform" />
       <item value="jcenter" />
       <item value="Information you can retrieve about a running process." />
@@ -33,7 +38,6 @@
       <item value="distribute Complete" />
       <item value="Affected" />
       <item value="Could not determine the dependencies of task ':flutter:compileDebugAidl'." />
-      <item value="Only fullscreen opaque activities can request orientation" />
       <item value="m Is Recyclable Count" />
       <item value="Informs the recycler whether this item can be recycled. Views which are not * recyclable will not be reused for other items until setIsRecyclable() is * later set to true. Calls to setIsRecyclable() should always be paired (one * call to setIsRecyclabe(false) should always be matched with a later call to * setIsRecyclable(true)). Pairs of calls may be nested, as the state is internally * reference-counted." />
       <item value="Return the ViewHolder for the item in the given position of the data set. Unlike * {@link #findViewHolderForLayoutPosition(int)} this method takes into account any pending * adapter changes that may not be reflected to the layout yet. On the other hand, if * {@link Adapter#notifyDataSetChanged()} has been called but the new layout has not been * calculated yet, this method will return &lt;code&gt;null&lt;/code&gt; since the new positions of views * are unknown until the layout is calculated." />
@@ -47,15 +51,11 @@
       <item value="dynamic" />
       <item value="FLUTTER FRAGMENT PAGE URL" />
       <item value="a string consisting of exactly this sequence of characters" />
-      <item value="* Returns a string representation of the object. In general, the * {@code toString} method returns a string that * &quot;textually represents&quot; this object. The result should * be a concise but informative representation that is easy for a * person to read. * It is recommended that all subclasses override this method." />
-      <item value="uses Cleartext Traffic" />
-      <item value="[StatefulWidget] and [State], for widgets that can build differently /// several times over their lifetime. /// * [InheritedWidget], for widgets that introduce ambient state that can /// be read by descendant widgets." />
-      <item value="Scaffold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="878" />
-        <entry key="ENGLISH" value="879" />
+        <entry key="CHINESE" value="883" />
+        <entry key="ENGLISH" value="884" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
