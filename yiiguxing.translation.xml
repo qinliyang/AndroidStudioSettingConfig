@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Icon Tab Provider" />
       <item value="DECELERATION RATE" />
       <item value="* Returns Euler's number &lt;i&gt;e&lt;/i&gt; raised to the power of a * {@code double} value." />
       <item value="exp" />
@@ -50,12 +51,11 @@
       <item value="Called by RecyclerView to display the data at the specified position. This method should * update the contents of the {@link ViewHolder#itemView} to reflect the item at the given * position." />
       <item value="airbnb" />
       <item value="multidex" />
-      <item value="get Velocity By Distance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="889" />
-        <entry key="ENGLISH" value="890" />
+        <entry key="CHINESE" value="890" />
+        <entry key="ENGLISH" value="891" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
