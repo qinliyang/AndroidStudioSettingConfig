@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DECELERATION RATE" />
+      <item value="* Returns Euler's number &lt;i&gt;e&lt;/i&gt; raised to the power of a * {@code double} value." />
+      <item value="exp" />
+      <item value="get Spline Fling Distance" />
       <item value="register Component" />
       <item value="fire Global Event Callback" />
       <item value="Sets the opacity of the view to a value from 0 to 1, where 0 means the view is * completely transparent and 1 means the view is completely opaque. *" />
@@ -47,15 +51,11 @@
       <item value="airbnb" />
       <item value="multidex" />
       <item value="get Velocity By Distance" />
-      <item value="Edge Insets" />
-      <item value="Unable to start activity ComponentInfo" />
-      <item value="leading" />
-      <item value="dynamic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="886" />
+        <entry key="CHINESE" value="889" />
+        <entry key="ENGLISH" value="890" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
