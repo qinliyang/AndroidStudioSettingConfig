@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Indicates that the pager is in an idle, settled state. The current page * is fully in view and no animation is in progress." />
       <item value="Icon Tab Provider" />
       <item value="DECELERATION RATE" />
       <item value="* Returns Euler's number &lt;i&gt;e&lt;/i&gt; raised to the power of a * {@code double} value." />
@@ -50,12 +51,11 @@
       <item value="Return the ViewHolder for the item in the given position of the data set. Unlike * {@link #findViewHolderForLayoutPosition(int)} this method takes into account any pending * adapter changes that may not be reflected to the layout yet. On the other hand, if * {@link Adapter#notifyDataSetChanged()} has been called but the new layout has not been * calculated yet, this method will return &lt;code&gt;null&lt;/code&gt; since the new positions of views * are unknown until the layout is calculated." />
       <item value="Called by RecyclerView to display the data at the specified position. This method should * update the contents of the {@link ViewHolder#itemView} to reflect the item at the given * position." />
       <item value="airbnb" />
-      <item value="multidex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="890" />
-        <entry key="ENGLISH" value="891" />
+        <entry key="CHINESE" value="891" />
+        <entry key="ENGLISH" value="892" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
