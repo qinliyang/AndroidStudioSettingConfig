@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="aar" type="AAR" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern="北京城.md" type="PLAIN_TEXT" />
       <mapping pattern="qqqq" type="PLAIN_TEXT" />
       <mapping ext="aar" type="Properties" />
