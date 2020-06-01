@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Set the resize threshold to maintain at worst a 2/3 load factor." />
+      <item value="Construct a new map initially containing (firstKey, firstValue). * ThreadLocalMaps are constructed lazily, so we only create * one when we have at least one entry to put in it." />
+      <item value="Sets the current thread's copy of this thread-local variable * to the specified value. Most subclasses will have no need to * override this method, relying solely on the {@link #initialValue} * method to set the values of thread-locals. *" />
       <item value="Initialize the current thread as a looper. * This gives you a chance to create handlers that then reference * this looper, before actually starting the loop. Be sure to call * {@link #loop()} after calling this method, and end it by calling * {@link #quit()}." />
       <item value="quit Allowed" />
       <item value="Only one Looper may be created per thread" />
@@ -48,14 +51,11 @@
       <item value="on Tick" />
       <item value="The number of millis in the future from the call * to {@link #start()} until the countdown is done and {@link #onFinish()} * is called. * @param countDownInterval The interval along the way to receive * {@link #onTick(long)} callbacks." />
       <item value="ailed to transform file 'Msc.jar' to match attributes" />
-      <item value="ould not resolve all files for configuration ':app:debugCompileClasspath'." />
-      <item value="restore Save State" />
-      <item value="move To State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="907" />
-        <entry key="ENGLISH" value="908" />
+        <entry key="CHINESE" value="910" />
+        <entry key="ENGLISH" value="911" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
