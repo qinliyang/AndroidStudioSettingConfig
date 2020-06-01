@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Run the message queue in this thread. Be sure to call * {@link #quit()} to end the loop." />
+      <item value="Run the message queue in this thread. Be sure to call" />
       <item value="* Set the resize threshold to maintain at worst a 2/3 load factor." />
       <item value="Construct a new map initially containing (firstKey, firstValue). * ThreadLocalMaps are constructed lazily, so we only create * one when we have at least one entry to put in it." />
       <item value="Sets the current thread's copy of this thread-local variable * to the specified value. Most subclasses will have no need to * override this method, relying solely on the {@link #initialValue} * method to set the values of thread-locals. *" />
@@ -49,13 +51,11 @@
       <item value="he amount of time until finished." />
       <item value="millis Until Finished" />
       <item value="on Tick" />
-      <item value="The number of millis in the future from the call * to {@link #start()} until the countdown is done and {@link #onFinish()} * is called. * @param countDownInterval The interval along the way to receive * {@link #onTick(long)} callbacks." />
-      <item value="ailed to transform file 'Msc.jar' to match attributes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="910" />
-        <entry key="ENGLISH" value="911" />
+        <entry key="CHINESE" value="912" />
+        <entry key="ENGLISH" value="913" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
