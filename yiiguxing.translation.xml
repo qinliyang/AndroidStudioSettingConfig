@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Draw the specified Rect using the specified paint. The rectangle will be filled or framed * based on the Style in the paint. * * @param left The left side of the re" />
       <item value="draw indicator line" />
       <item value="if there is an offset, start interpolating left and right coordinates between current and next tab" />
       <item value="psts Text All Caps" />
@@ -50,12 +51,11 @@
       <item value="/** * The name of the process this application should run in. From the * &quot;process&quot; attribute or, if not set, the same as * &lt;var&gt;packageName&lt;/var&gt;. */" />
       <item value="ould not determine the dependencies of task" />
       <item value="sThreadLocal.get() will return null unless you've called prepare()." />
-      <item value="s Thread Local" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="921" />
-        <entry key="ENGLISH" value="922" />
+        <entry key="CHINESE" value="922" />
+        <entry key="ENGLISH" value="923" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
