@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The interval along the way to receive * {@link #onTick(long)} callbacks." />
+      <item value="* @param millisInFuture The number of millis in the future from the call * to {@link #start()} until the countdown is done and {@link #onFinish()} * is called." />
+      <item value="faild" />
       <item value="Manually shows the next child." />
       <item value="psts Underline Color" />
       <item value="Run the message queue in this thread. Be sure to call * {@link #quit()} to end the loop." />
@@ -48,20 +51,18 @@
       <item value="he interval in millis that the user receives callbacks" />
       <item value="* Millis since epoch when alarm should stop." />
       <item value="seconds remaining" />
-      <item value="Schedule a countdown until a time in the future, with * regular notifications on intervals along the way. *" />
-      <item value="The amount of time until finished." />
-      <item value="he amount of time until finished." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="914" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="916" />
+        <entry key="ENGLISH" value="917" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="SCOTS_GAELIC" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
