@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Children Drawing Order Enabled" />
       <item value="millis Until Finished" />
       <item value="The interval along the way to receive * {@link #onTick(long)} callbacks." />
       <item value="* @param millisInFuture The number of millis in the future from the call * to {@link #start()} until the countdown is done and {@link #onFinish()} * is called." />
@@ -50,12 +51,11 @@
       <item value="Return the Looper object associated with the current thread. Returns * null if the calling thread is not associated with a Looper. */" />
       <item value="Replace an existing fragment that was added to a container. This is * essentially the same as calling {@link #remove(Fragment)} for all * currently added fragments that were added with the same containerViewId * and then {@link #add(int, Fragment, String)} with the same arguments * given here." />
       <item value="he interval in millis that the user receives callbacks" />
-      <item value="* Millis since epoch when alarm should stop." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="917" />
-        <entry key="ENGLISH" value="918" />
+        <entry key="CHINESE" value="918" />
+        <entry key="ENGLISH" value="919" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
