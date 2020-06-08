@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Layout state should be one of 100 but it is 10" />
       <item value="get Product Stock Complaint" />
       <item value="/** * Transform an Observable by applying a particular Transformer function to it. * &lt;p&gt;" />
       <item value="A {@linkplain CallAdapter.Factory call adapter} which uses RxJava for creating observables. * &lt;p&gt;" />
@@ -50,12 +51,11 @@
       <item value="get Spline Fling Distance" />
       <item value="register Component" />
       <item value="fire Global Event Callback" />
-      <item value="Sets the opacity of the view to a value from 0 to 1, where 0 means the view is * completely transparent and 1 means the view is completely opaque. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="932" />
-        <entry key="ENGLISH" value="933" />
+        <entry key="CHINESE" value="933" />
+        <entry key="ENGLISH" value="934" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
