@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The second layout step where we do the actual layout of the views for the final state. * This step might be run multiple times if necessary (e.g. measure). */ private void" />
       <item value="Layout state should be one of 100 but it is 10" />
       <item value="get Product Stock Complaint" />
       <item value="/** * Transform an Observable by applying a particular Transformer function to it. * &lt;p&gt;" />
@@ -50,12 +51,11 @@
       <item value="exp" />
       <item value="get Spline Fling Distance" />
       <item value="register Component" />
-      <item value="fire Global Event Callback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="933" />
-        <entry key="ENGLISH" value="934" />
+        <entry key="CHINESE" value="934" />
+        <entry key="ENGLISH" value="935" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
