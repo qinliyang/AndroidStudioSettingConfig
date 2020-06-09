@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="anim Length Rand" />
+      <item value="anim Length" />
       <item value="Can't convert value at index 9 to dimension: type=0x10" />
       <item value="Unsupported Operation Exception" />
       <item value="Helper for getTransformation. Subclasses should implement this to apply * their transforms given an interpolation value. Implementations of this * method should always replace the specified Transformation or document * they are doing otherwise." />
-      <item value="anim Length Rand" />
       <item value="1.0 means fully opaqe and 0.0 means fully transparent" />
       <item value="apply Transformation" />
       <item value="Float Animation" />
@@ -50,12 +51,11 @@
       <item value="psts Underline Color" />
       <item value="Run the message queue in this thread. Be sure to call * {@link #quit()} to end the loop." />
       <item value="Run the message queue in this thread. Be sure to call" />
-      <item value="* Set the resize threshold to maintain at worst a 2/3 load factor." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="958" />
-        <entry key="ENGLISH" value="959" />
+        <entry key="CHINESE" value="960" />
+        <entry key="ENGLISH" value="961" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
