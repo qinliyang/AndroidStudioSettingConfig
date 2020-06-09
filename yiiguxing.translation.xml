@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can't convert value at index 9 to dimension: type=0x10" />
+      <item value="Unsupported Operation Exception" />
+      <item value="Helper for getTransformation. Subclasses should implement this to apply * their transforms given an interpolation value. Implementations of this * method should always replace the specified Transformation or document * they are doing otherwise." />
       <item value="anim Length Rand" />
       <item value="1.0 means fully opaqe and 0.0 means fully transparent" />
       <item value="apply Transformation" />
@@ -48,14 +51,11 @@
       <item value="Run the message queue in this thread. Be sure to call * {@link #quit()} to end the loop." />
       <item value="Run the message queue in this thread. Be sure to call" />
       <item value="* Set the resize threshold to maintain at worst a 2/3 load factor." />
-      <item value="Construct a new map initially containing (firstKey, firstValue). * ThreadLocalMaps are constructed lazily, so we only create * one when we have at least one entry to put in it." />
-      <item value="Sets the current thread's copy of this thread-local variable * to the specified value. Most subclasses will have no need to * override this method, relying solely on the {@link #initialValue} * method to set the values of thread-locals. *" />
-      <item value="Initialize the current thread as a looper. * This gives you a chance to create handlers that then reference * this looper, before actually starting the loop. Be sure to call * {@link #loop()} after calling this method, and end it by calling * {@link #quit()}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="958" />
+        <entry key="ENGLISH" value="959" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
