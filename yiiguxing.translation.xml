@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Such Field Exception" />
       <item value="show Json Single Line" />
       <item value="allow Modify Server Data" />
       <item value="generate Tag" />
@@ -50,12 +51,11 @@
       <item value="draw indicator line" />
       <item value="if there is an offset, start interpolating left and right coordinates between current and next tab" />
       <item value="psts Text All Caps" />
-      <item value="set Children Drawing Order Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="968" />
-        <entry key="ENGLISH" value="969" />
+        <entry key="CHINESE" value="969" />
+        <entry key="ENGLISH" value="970" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
