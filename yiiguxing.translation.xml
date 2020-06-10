@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="show Json Single Line" />
+      <item value="allow Modify Server Data" />
       <item value="generate Tag" />
       <item value="/** * Returns an array of stack trace elements representing the stack dump * of this thread. This method will return a zero-length array if * this thread has not started, has started but has not yet been * scheduled to run by the system, or has terminated. * If the returned array is of non-zero length then the first element of * the array represents the top of the stack, which is the most recent * method invocation in the sequence. The last element of the array * represents the bottom of the stack, which is the least recent method * invocation in the sequence. *" />
       <item value="&quot;DeadSystemException: The system died; &quot; + &quot;earlier logs will point to the root cause&quot;" />
@@ -49,13 +51,11 @@
       <item value="if there is an offset, start interpolating left and right coordinates between current and next tab" />
       <item value="psts Text All Caps" />
       <item value="set Children Drawing Order Enabled" />
-      <item value="millis Until Finished" />
-      <item value="The interval along the way to receive * {@link #onTick(long)} callbacks." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="966" />
-        <entry key="ENGLISH" value="967" />
+        <entry key="CHINESE" value="968" />
+        <entry key="ENGLISH" value="969" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
