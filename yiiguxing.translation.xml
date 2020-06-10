@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Returns the hash code value for this list. The hash code of a list" />
+      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this list contains all of the elements of the * specified collection." />
+      <item value="Retains only the elements in this list that are contained in the * specified collection (optional operation). In other words, removes * from this list all of its elements that are not contained in the * specified collection." />
       <item value="No Such Field Exception" />
       <item value="show Json Single Line" />
       <item value="allow Modify Server Data" />
@@ -48,14 +51,11 @@
       <item value="Create a shader that draws a linear gradient along a line. * * @param x0 The x-coordinate for the start of the gradient line * @param y0 The y-coordinate for the start of the gradient line * @param x1 The x-coordinate for the end of the gradient line * @param y1 The y-coordinate for the end of the gradient line * @param color0 The color at the start of the gradient line. * @param color1 The color at the end of the gradient line. * @param tile The Shader tiling mode" />
       <item value="line below current tab" />
       <item value="* Draw the specified Rect using the specified paint. The rectangle will be filled or framed * based on the Style in the paint. * * @param left The left side of the re" />
-      <item value="draw indicator line" />
-      <item value="if there is an offset, start interpolating left and right coordinates between current and next tab" />
-      <item value="psts Text All Caps" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="969" />
-        <entry key="ENGLISH" value="970" />
+        <entry key="CHINESE" value="972" />
+        <entry key="ENGLISH" value="973" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
