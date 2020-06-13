@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiation Exception" />
+      <item value="instantiated" />
       <item value="Check if this view can be scrolled vertically in a certain direction. * * @param direction Negative to check scrolling up, positive to check scrolling down. * @return true if this view can be scrolled in the specified direction, false otherwise." />
       <item value="heck if this view can be scrolled vertically in a certain direction. * * @param direction Negative to check scrolling up, positive to check scrolling down. * @return true if this view can be scrolled in the specified direction, false otherwise. */ public boolean canScrollVertically(int direction) {" />
       <item value="Query if vertical scrolling is currently supported. The default implementation * returns false." />
@@ -49,13 +51,11 @@
       <item value="* Returns true if the {@link RecyclerView} is in the pre-layout step where it is having its * {@link LayoutManager} layout items where they will be at the beginning of a set of * predictive item animations." />
       <item value="validate View Holder For Offset Position" />
       <item value="don't check type if it is pre-layout." />
-      <item value="* Mark an attached view as scrap." />
-      <item value="Return the view type of the item at &lt;code&gt;position&lt;/code&gt; for the purposes * of view recycling." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="990" />
-        <entry key="ENGLISH" value="991" />
+        <entry key="CHINESE" value="992" />
+        <entry key="ENGLISH" value="993" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
