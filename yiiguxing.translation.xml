@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="category" />
+      <item value="Classification" />
       <item value="Color value not valid -- must be #rgb, #argb, #rrggbb, or #aarrggbb (at 'startColor' with value '#0eeeeee')." />
       <item value="scroll To Position With Offset" />
       <item value="* Sets the opacity of the view to a value from 0 to 1, where 0 means the view is * completely transparent and 1 means the view is completely opaque. *" />
@@ -49,13 +51,11 @@
       <item value="get Product Stock Complaint" />
       <item value="/** * Transform an Observable by applying a particular Transformer function to it. * &lt;p&gt;" />
       <item value="A {@linkplain CallAdapter.Factory call adapter} which uses RxJava for creating observables. * &lt;p&gt;" />
-      <item value="failed" />
-      <item value="Value in pixels indicating the offset from position." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="979" />
-        <entry key="ENGLISH" value="980" />
+        <entry key="CHINESE" value="981" />
+        <entry key="ENGLISH" value="982" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
