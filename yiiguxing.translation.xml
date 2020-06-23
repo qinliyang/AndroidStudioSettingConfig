@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Polytechnic" />
       <item value="undefined" />
       <item value="web Upload Adhoc Name" />
       <item value="pop Web View Controller" />
@@ -50,12 +51,11 @@
       <item value="apply Transformation" />
       <item value="Float Animation" />
       <item value="* Attempts to get the ViewHolder for the given position, either from the Recycler scrap, * cache, the RecycledViewPool, or creating it directly. * &lt;p&gt;" />
-      <item value="try Get View Holder For Position By Deadline" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1001" />
-        <entry key="ENGLISH" value="1002" />
+        <entry key="CHINESE" value="1003" />
+        <entry key="ENGLISH" value="1004" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
