@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="undefined" />
+      <item value="web Upload Adhoc Name" />
+      <item value="pop Web View Controller" />
       <item value="cpp" />
       <item value="get ion cache memory" />
       <item value="Failed to reset optimization [3, 0]" />
@@ -48,14 +51,11 @@
       <item value="Float Animation" />
       <item value="* Attempts to get the ViewHolder for the given position, either from the Recycler scrap, * cache, the RecycledViewPool, or creating it directly. * &lt;p&gt;" />
       <item value="try Get View Holder For Position By Deadline" />
-      <item value="The view does not have a ViewHolder." />
-      <item value="he view does not have a ViewHolder. You cannot&quot; + &quot; pass arbitrary views to this method, they should be created by the &quot;" />
-      <item value="** * {@link android.view.ViewGroup.MarginLayoutParams LayoutParams} subclass for children of * {@link RecyclerView}. Custom {@link LayoutManager layout managers} are encouraged * to create their own subclass of this &lt;code&gt;LayoutParams&lt;/code&gt; class * to store any additional required per-child view metadata about the layout. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="999" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="CHINESE" value="1001" />
+        <entry key="ENGLISH" value="1002" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
